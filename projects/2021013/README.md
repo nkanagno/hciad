@@ -1,9 +1,9 @@
 #hello
-| Πλατφόρμα | Username | First name | Last name | 
-| --- | --- | --- | --- |
-| Actively Learn | p13vyth@ionio.gr |	p13vyth | Π2013021 |
-| Edpuzzle | p13vyth |  Alexandros Vithoulkas | P2013021 |
-| Asciinema | p2013021 | Alexandros | Vithoulkas |
+| Πλατφόρμα | Username | Ονομα | επώνυμο | AM | 
+| --- | --- | --- | --- | --- |
+| Github | nkanagno | Νικόλας | Αναγνωστόπουλος | inf2021013 |
+| Edpuzzle |  | Alexandros Vithoulkas | P2013021 |
+
 
 # Επικοινωνία Ανθρώπου-Υπολογιστή
 
