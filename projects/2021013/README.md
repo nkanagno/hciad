@@ -1,7 +1,9 @@
 #hello
-
-| 1 | Ονοματεπώνυμο: | Νικόλας Αναγνωστόπουλος | 
-| 2 | Αριθμός μητρώου: | inf2021013 | 
+| Πλατφόρμα | Username | First name | Last name | 
+| --- | --- | --- | --- |
+| Actively Learn | p13vyth@ionio.gr |	p13vyth | Π2013021 |
+| Edpuzzle | p13vyth |  Alexandros Vithoulkas | P2013021 |
+| Asciinema | p2013021 | Alexandros | Vithoulkas |
 
 # Επικοινωνία Ανθρώπου-Υπολογιστή
 
