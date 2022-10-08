@@ -1,8 +1,8 @@
 # Τα Στοιχεία Μου
 | Πλατφόρμα | Όνομα | Επώνυμο | Username | AM | Email |
 | --- | --- | --- | --- | --- | --- |
-| Github | Νικόλας | Αναγνωστόπουλος | nkanagno | inf2021013 | inf2021013@ionio.gr |
-| Edpuzzle | Νικόλας Αναγνωστόπουλος | inf2021013 | inf2021013 | inf2021013 | inf2021013@ionio.gr |
+| [Github](https://github.com/nkanagno) | Νικόλας | Αναγνωστόπουλος | nkanagno | inf2021013 | inf2021013@ionio.gr |
+| [Edpuzzle]() | Νικόλας Αναγνωστόπουλος | inf2021013 | inf2021013 | inf2021013 | inf2021013@ionio.gr |
 
 
 # Επικοινωνία Ανθρώπου-Υπολογιστή
