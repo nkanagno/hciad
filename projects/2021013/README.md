@@ -32,4 +32,4 @@
 1. pacman -Sy  wireless_tools nano dhcp dhcpcd net-tools <br> 
 2. sudo systemctl enable dhcpcd@enp2s0.service
 
-Μόλις ολοκληρώθηκε η εγκατάσταση, έκανα login έκανα “pacman -Sy asciinema neofetch” και έφτιαξα το παρακάτω βίντεο κάνοντας “asciinema  rec”:
+Μόλις ολοκληρώθηκε η εγκατάσταση, έκανα login, έκανα “pacman -Sy asciinema neofetch” και έφτιαξα το παρακάτω βίντεο κάνοντας “asciinema  rec” το οποίο βρίσκεται [εδώ](https://asciinema.org/a/528659) και δείχνει τα αποτελέσματα των εντολών "neofetch" και "sudo journalctl -b".
