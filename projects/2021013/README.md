@@ -35,4 +35,4 @@
 2. sudo systemctl enable dhcpcd@enp2s0.service <br>
 <h2>Asciinema</h2>
 Μόλις ολοκληρώθηκε η εγκατάσταση, έκανα login, έκανα “pacman -Sy asciinema neofetch” και έφτιαξα το παρακάτω βίντεο κάνοντας “asciinema  rec”
-[link gia to asciinema](https://asciinema.org/a/mpbE2As74UV6mMgLIyK7dem1t) και δείχνει τα αποτελέσματα των εντολών "PS1=["2021013\w]#"", "neofetch" και "sudo journalctl -b".
+ <a href="https://asciinema.org/a/mpbE2As74UV6mMgLIyK7dem1t">link gia to asciinema</a>και δείχνει τα αποτελέσματα των εντολών "PS1=["2021013\w]#"", "neofetch" και "sudo journalctl -b".
