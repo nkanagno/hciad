@@ -52,7 +52,11 @@ To Tetris είναι ένα βιντεοπαιχνίδι παζλ, το οποί
   * Προσωπικό site στο netlify: <a href="https://nkanagno.netlify.app/">nkanagno</a> 
   * link του άρθρου μου στο site μου για το `Nintendo - Gamecube`: <a href="https://nkanagno.netlify.app/gallery/Nintento-Gamecube/">Nintendo - Gamecube</a>
   * link του άρθρου μου στο site μου για το `Tetris`: <a href="https://nkanagno.netlify.app/gallery/tetris/">Tetris</a>
-  * Η αρχική φωτογραφία του [`Nintendo - Gamecube`]()
-  * Η φωτογραφία του [`Nintendo - Gamecube-thump`]() resized σε 160x160 pixels 
-  * Η αρχική φωτογραφία του [`Tetris`]()
-  * Η φωτογραφία του [`Tetris-thump`]() resized σε 160x160 pixels 
+  #### Nintendo - Gamecube:
+   * Το [`Nintendo - Gamecube.md`](https://github.com/nkanagno/_gallery/blob/master/Nintento-Gamecube.md) σε .md αρχείο 
+   * Η αρχική φωτογραφία του [`Nintendo - Gamecube.jpg`](https://github.com/nkanagno/images/blob/master/Nintendo-Gamecube.jpg)
+   * Η φωτογραφία του [`Nintendo - Gamecube - thump.jpg`](https://github.com/nkanagno/images/blob/master/Nintendo-Gamecube-thumb.jpg) resized σε 160x160 pixels 
+  #### Tetris:
+   * To [`Tetris.md`](https://github.com/nkanagno/_gallery/blob/master/Tetris.md) σε .md αρχείο
+   * Η αρχική φωτογραφία του [`Tetris.jpg`](https://github.com/nkanagno/images/blob/master/Tetris.jpg)
+   * Η φωτογραφία του [`Tetris - thump.jpg`](https://github.com/nkanagno/images/blob/master/Tetris-thumb.jpg) resized σε 160x160 pixels 
