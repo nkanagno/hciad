@@ -4,15 +4,15 @@
 | [Github](https://github.com/nkanagno) | Νικόλας | Αναγνωστόπουλος | nkanagno | inf2021013 | inf2021013@ionio.gr |
 | Edpuzzle | Νικόλας Αναγνωστόπουλος | inf2021013 | inf2021013 | inf2021013 | inf2021013@ionio.gr |
 
-
+Our Organization: [Η Ομάδα μας](https://github.com/OMADA12)
 # Επικοινωνία Ανθρώπου-Υπολογιστή
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | <ul><li> [x] [Η Ομάδα μας](https://github.com/OMADA12)</li></ul> <ul><li> [x] [Τελική αναφορά + προσθήκη πίνακα περιεχομένων + συγγραφή της εισαγωγής](https://github.com/nkanagno/hci/tree/2021013/projects/2021013)</li></ul> <ul><li> [x] [Αποστολή της εισαγωγής για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/902)</li></ul> <ul><li> [x] Απάντηση στων ερωτήσεων του 1ου βίντεο που υπάρχει στο Edpuzzle</li></ul>| Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
-| 2 | Άσκηση γραμμής εντολών (linux install) |<ul><li> [x] <a href="#arch_linux_installation">Επιτυχής εγκατάσταση Arch linux σε USB stick + Αναλυτική περιγραφή της εγκατάστασης</a> </ul></li> <ul><li> [x] [Video recording asciinema με PS1 (αλλαγή prompt σε 2021013 [AM]) + neofetch + journactl -b](https://asciinema.org/a/529148) </ul></li> <ul><li> [x] [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 2 ](https://github.com/courses-ionio/help/discussions/1055) </ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 2ου βίντεο που υπάρχει στο Edpuzzle </ul></li>| Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας|
-| 3 | Συμμετοχικό περιεχόμενο A1 | | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
+| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | <ul><li> [x] [Τελική αναφορά + προσθήκη πίνακα περιεχομένων + συγγραφή της εισαγωγής](https://github.com/nkanagno/hci/tree/2021013/projects/2021013)</li></ul> <ul><li> [x] [Αποστολή της εισαγωγής για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/902)</li></ul> <ul><li> [x] Απάντηση στων ερωτήσεων του 1ου βίντεο που υπάρχει στο Edpuzzle</li></ul>| Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
+| 2 | <ul><li> [x] <a href="#arch_linux_installation">Επιτυχής εγκατάσταση Arch linux σε USB stick + Αναλυτική περιγραφή της εγκατάστασης</a> </ul></li> <ul><li> [x] [Video recording asciinema με PS1 (αλλαγή prompt σε 2021013 [AM]) + neofetch + journactl -b](https://asciinema.org/a/529148) </ul></li>  <ul><li> [x] Απάντηση στων ερωτήσεων του 2ου βίντεο που υπάρχει στο Edpuzzle </ul></li> |[Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 2 ](https://github.com/courses-ionio/help/discussions/1055)| Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας|
+| 3 | <ul><li> [ ] Συμμετοχικό περιεχόμενο A1 </ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 3ου βίντεο που υπάρχει στο Edpuzzle </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 3 ](https://github.com/courses-ionio/help/discussions/1229)| Έχει γίνει το 50% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) <ul><li> [x] Συμμετοχικό περιεχόμενο A1 </ul></li>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 3 ](https://github.com/courses-ionio/help/discussions/1229)| |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -37,4 +37,6 @@
 2. sudo systemctl enable dhcpcd@enp2s0.service <br>
 <h2>Asciinema</h2>
 Μόλις ολοκληρώθηκε η εγκατάσταση, έκανα login, έκανα “pacman -Sy asciinema neofetch” και έφτιαξα το παρακάτω βίντεο κάνοντας “asciinema  rec”
- <a href="https://asciinema.org/a/mpbE2As74UV6mMgLIyK7dem1t">link gia to asciinema</a>και δείχνει τα αποτελέσματα των εντολών "PS1=["2021013\w]#"", "neofetch" και "sudo journalctl -b".
+και δείχνει τα αποτελέσματα των εντολών "PS1=["2021013\w]#"", "neofetch" και "sudo journalctl -b".<br>
+ 
+ <a href="https://asciinema.org/a/mpbE2As74UV6mMgLIyK7dem1t">link gia to asciinema</a>
