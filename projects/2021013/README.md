@@ -50,13 +50,17 @@ To Tetris είναι ένα βιντεοπαιχνίδι παζλ, το οποί
 ## Tα Links και οι φωτογραφίες του κάθε θέματος σε προσωπικό αποθετήριο:
 
   * Προσωπικό site στο netlify: <a href="https://nkanagno.netlify.app/">nkanagno</a> 
-  * link του άρθρου μου στο site μου για το `Nintendo - Gamecube`: <a href="https://nkanagno.netlify.app/gallery/Nintento-Gamecube/">Nintendo - Gamecube</a>
-  * link του άρθρου μου στο site μου για το `Tetris`: <a href="https://nkanagno.netlify.app/gallery/tetris/">Tetris</a>
+  
   #### Nintendo - Gamecube:
+   * link του άρθρου μου στο site μου για το `Nintendo - Gamecube`: <a href="https://nkanagno.netlify.app/gallery/Nintento-Gamecube/">Nintendo - Gamecube</a>
    * Το [`Nintendo - Gamecube.md`](https://github.com/nkanagno/_gallery/blob/master/Nintento-Gamecube.md) σε .md αρχείο 
    * Η αρχική φωτογραφία του [`Nintendo - Gamecube.jpg`](https://github.com/nkanagno/images/blob/master/Nintendo-Gamecube.jpg)
    * Η φωτογραφία του [`Nintendo - Gamecube - thump.jpg`](https://github.com/nkanagno/images/blob/master/Nintendo-Gamecube-thumb.jpg) resized σε 160x160 pixels 
   #### Tetris:
+   * link του άρθρου μου στο site μου για το `Tetris`: <a href="https://nkanagno.netlify.app/gallery/tetris/">Tetris</a>
    * To [`Tetris.md`](https://github.com/nkanagno/_gallery/blob/master/Tetris.md) σε .md αρχείο
    * Η αρχική φωτογραφία του [`Tetris.jpg`](https://github.com/nkanagno/images/blob/master/Tetris.jpg)
    * Η φωτογραφία του [`Tetris - thump.jpg`](https://github.com/nkanagno/images/blob/master/Tetris-thumb.jpg) resized σε 160x160 pixels 
+
+1. Pull-request από το προσωπικό [`nkanagno/_gallery`](https://github.com/nkanagno/_gallery) προς στο [`OMADA12/_gallery`](https://github.com/OMADA12/_gallery) του organization της ομάδας μας:<a href="https://github.com/OMADA12/_gallery/pull/2">"upload md files"</a>
+2. Pull-request από το προσωπικό [`nkanagno/images`](https://github.com/nkanagno/images) προς στο [`OMADA12/images`](https://github.com/OMADA12/images) του organization της ομάδας μας:<a href="https://github.com/OMADA12/images/pull/2">"upload jpg files"</a>
