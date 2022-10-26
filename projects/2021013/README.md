@@ -47,7 +47,7 @@ Our Organization: [Η Ομάδα μας](https://github.com/OMADA12)
 <h2>2. Σύντομη Περιγραφή: `Tetris`</h2>
 To Tetris είναι ένα βιντεοπαιχνίδι παζλ, το οποίο αρχικά αναπτύχθηκε και σχεδιάστηκε από τον Ρώσο σχεδιαστή βιντεοπαιχνιδιών Αλεξέι Παζίτνωφ και κυκλοφόρησε στις 6 Ιουνίου του 1984. Το παιχνίδι έγινε διαθέσιμο σε σχεδόν όλες τις κονσόλες και λειτουργικά συστήματα υπολογιστών, όπως σε κινητά, σε γραφηματικές αριθμομηχανές κλπ. Ο τρόπος του παιχνιδιού είναι ο εξής, αρχικά ο παίκτης καλείται να τοποθετήσει επτά σχήματα τούβλων, τα οποία πέφτουν από το πάνω μέρος της οθόνης, χωρίς σταματημό, με τρόπο τέτοιο, ώστε να ταιριάζουν και να μην υπάρχουν κενά μεταξύ τους. Όταν τα τούβλα σχηματίζουν πλήρεις γραμμές, τότε οι γραμμές αυτές εξαφανίζονται οριζοντίως. Αν δεν γίνει αυτό και οι συνθέσεις από τουβλάκια έχουν συνεχώς κενό χώρο, η οθόνη αναπόφευκτα θα γεμίσει και το παιχνίδι θα τερματιστεί με ήττα του παίκτη.
 
-## Tα Links και οι φωτογραφίες του κάθε θέματος σε προσωπικό αποθετήριο:
+## Tα Links και οι φωτογραφίες του κάθε θέματος μου σε <a href="https://github.com/nkanagno">προσωπικό </a> αποθετήριο:
 
   * Προσωπικό site στο netlify: <a href="https://nkanagno.netlify.app/">nkanagno</a> 
   
@@ -62,5 +62,21 @@ To Tetris είναι ένα βιντεοπαιχνίδι παζλ, το οποί
    * Η αρχική φωτογραφία του [`Tetris.jpg`](https://github.com/nkanagno/images/blob/master/Tetris.jpg)
    * Η φωτογραφία του [`Tetris - thump.jpg`](https://github.com/nkanagno/images/blob/master/Tetris-thumb.jpg) resized σε 160x160 pixels 
 
-1. Pull-request από το προσωπικό [`nkanagno/_gallery`](https://github.com/nkanagno/_gallery) προς στο [`OMADA12/_gallery`](https://github.com/OMADA12/_gallery) του organization της ομάδας μας:<a href="https://github.com/OMADA12/_gallery/pull/2">"upload md files"</a>
-2. Pull-request από το προσωπικό [`nkanagno/images`](https://github.com/nkanagno/images) προς στο [`OMADA12/images`](https://github.com/OMADA12/images) του organization της ομάδας μας:<a href="https://github.com/OMADA12/images/pull/2">"upload jpg files"</a>
+ ## Tα Links και οι φωτογραφίες του κάθε θέματος μου στο αποθετήριο της <a href="https://github.com/OMADA12">ομάδας</a> μου:
+
+  * Το site του organization μου στο netlify: <a href="https://nkanagno.netlify.app/">OMADA12</a> 
+  
+  #### Nintendo - Gamecube:
+   * link του άρθρου μου στο site του organization μου για το `Nintendo - Gamecube`: <a href="https://nkanagno.netlify.app/gallery/Nintento-Gamecube/">Nintendo - Gamecube</a>
+   * Το [`Nintendo - Gamecube.md`](https://github.com/nkanagno/_gallery/blob/master/Nintento-Gamecube.md) σε .md αρχείο 
+   * Η αρχική φωτογραφία του [`Nintendo - Gamecube.jpg`](https://github.com/nkanagno/images/blob/master/Nintendo-Gamecube.jpg)
+   * Η φωτογραφία του [`Nintendo - Gamecube - thump.jpg`](https://github.com/nkanagno/images/blob/master/Nintendo-Gamecube-thumb.jpg) resized σε 160x160 pixels 
+  #### Tetris:
+   * link του άρθρου μου στο site του organization μου για το `Tetris`: <a href="https://nkanagno.netlify.app/gallery/tetris/">Tetris</a>
+   * To [`Tetris.md`](https://github.com/nkanagno/_gallery/blob/master/Tetris.md) σε .md αρχείο
+   * Η αρχική φωτογραφία του [`Tetris.jpg`](https://github.com/nkanagno/images/blob/master/Tetris.jpg)
+   * Η φωτογραφία του [`Tetris - thump.jpg`](https://github.com/nkanagno/images/blob/master/Tetris-thumb.jpg) resized σε 160x160 pixels 
+
+### PULL-REQUESTS:
+1. Pull-request από το προσωπικό [`nkanagno/_gallery`](https://github.com/nkanagno/_gallery) προς στο [`OMADA12/_gallery`](https://github.com/OMADA12/_gallery) του organization της ομάδας μας:<a href="https://github.com/OMADA12/_gallery/pull/2"> "upload md files"</a>
+2. Pull-request από το προσωπικό [`nkanagno/images`](https://github.com/nkanagno/images) προς στο [`OMADA12/images`](https://github.com/OMADA12/images) του organization της ομάδας μας:<a href="https://github.com/OMADA12/images/pull/2"> "upload jpg files"</a>
