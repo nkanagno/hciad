@@ -52,8 +52,8 @@ To Tetris είναι ένα βιντεοπαιχνίδι παζλ, το οποί
   * Προσωπικό site στο netlify: <a href="https://nkanagno.netlify.app/">nkanagno</a> 
   
   #### Nintendo - Gamecube:
-   * link του άρθρου μου στο site μου για το `Nintendo - Gamecube`: <a href="https://nkanagno.netlify.app/gallery/Nintento-Gamecube/">Nintendo - Gamecube</a>
-   * Το [`Nintendo - Gamecube.md`](https://github.com/nkanagno/_gallery/blob/master/Nintento-Gamecube.md) σε .md αρχείο 
+   * link του άρθρου μου στο site μου για το `Nintendo - Gamecube`: <a href="https://nkanagno.netlify.app/gallery/Nintendo-Gamecube/">Nintendo - Gamecube</a>
+   * Το [`Nintendo - Gamecube.md`](https://github.com/nkanagno/_gallery/blob/master/Nintendo-Gamecube.md) σε .md αρχείο 
    * Η αρχική φωτογραφία του [`Nintendo - Gamecube.jpg`](https://github.com/nkanagno/images/blob/master/Nintendo-Gamecube.jpg)
    * Η φωτογραφία του [`Nintendo - Gamecube - thump.jpg`](https://github.com/nkanagno/images/blob/master/Nintendo-Gamecube-thumb.jpg) resized σε 160x160 pixels 
   #### Tetris:
@@ -78,5 +78,5 @@ To Tetris είναι ένα βιντεοπαιχνίδι παζλ, το οποί
    * Η φωτογραφία του [`Tetris - thump.jpg`](https://github.com/OMADA12/images/blob/master/Tetris-thumb.jpg) resized σε 160x160 pixels 
 
 ### PULL-REQUESTS:
-1. Pull-request από το προσωπικό [`nkanagno/_gallery`](https://github.com/nkanagno/_gallery) προς στο [`OMADA12/_gallery`](https://github.com/OMADA12/_gallery) του organization της ομάδας μας:<a href="https://github.com/OMADA12/_gallery/pull/2"> "upload md files"</a>
-2. Pull-request από το προσωπικό [`nkanagno/images`](https://github.com/nkanagno/images) προς στο [`OMADA12/images`](https://github.com/OMADA12/images) του organization της ομάδας μας:<a href="https://github.com/OMADA12/images/pull/2"> "upload jpg files"</a>
+1. Pull-request από το προσωπικό [`nkanagno/_gallery`](https://github.com/nkanagno/_gallery) προς στο [`OMADA12/_gallery`](https://github.com/OMADA12/_gallery) του organization της ομάδας μας:<a href="https://github.com/OMADA12/_gallery/pull/6"> "upload md files"</a>
+2. Pull-request από το προσωπικό [`nkanagno/images`](https://github.com/nkanagno/images) προς στο [`OMADA12/images`](https://github.com/OMADA12/images) του organization της ομάδας μας:<a href="https://github.com/OMADA12/images/pull/4"> "upload jpg files"</a>
