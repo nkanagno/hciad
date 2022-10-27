@@ -67,12 +67,12 @@ To Tetris είναι ένα βιντεοπαιχνίδι παζλ, το οποί
   * Το site του organization μου στο netlify: <a href="https://omada12.netlify.app/">OMADA12</a> 
   
   #### Nintendo - Gamecube:
-   * link του άρθρου μου στο site του organization μου για το `Nintendo - Gamecube`: <a href="https://omada12.netlify.app/gallery/nintento-gamecube/">Nintendo - Gamecube</a>
+   * link του άρθρου μου στο site του organization μου για το `Nintendo - Gamecube`: <a href="https://deploy-preview-7--omada12.netlify.app/gallery/nintendo-gamecube/">Nintendo - Gamecube</a>
    * Το [`Nintendo - Gamecube.md`](https://github.com/OMADA12/_gallery/blob/master/Nintendo-Gamecube.md) σε .md αρχείο 
    * Η αρχική φωτογραφία του [`Nintendo - Gamecube.jpg`](https://github.com/OMADA12/images/blob/master/Nintendo-Gamecube.jpg)
    * Η φωτογραφία του [`Nintendo - Gamecube - thump.jpg`](https://github.com/OMADA12/images/blob/master/Nintendo-Gamecube-thumb.jpg) resized σε 160x160 pixels 
   #### Tetris:
-   * link του άρθρου μου στο site του organization μου για το `Tetris`: <a href="https://omada12.netlify.app/gallery/tetris/">Tetris</a>
+   * link του άρθρου μου στο site του organization μου για το `Tetris`: <a href="https://deploy-preview-7--omada12.netlify.app/gallery/tetris/">Tetris</a>
    * To [`Tetris.md`](https://github.com/OMADA12/_gallery/blob/master/Tetris.md) σε .md αρχείο
    * Η αρχική φωτογραφία του [`Tetris.jpg`](https://github.com/OMADA12/images/blob/master/Tetris.jpg)
    * Η φωτογραφία του [`Tetris - thump.jpg`](https://github.com/OMADA12/images/blob/master/Tetris-thumb.jpg) resized σε 160x160 pixels 
