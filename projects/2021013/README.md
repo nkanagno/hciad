@@ -12,7 +12,7 @@ Our Organization: [Η Ομάδα μας](https://github.com/OMADA12)
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | <ul><li> [x] [Τελική αναφορά + προσθήκη πίνακα περιεχομένων + συγγραφή της εισαγωγής](https://github.com/nkanagno/hci/tree/2021013/projects/2021013)</li></ul> <ul><li> [x] [Αποστολή της εισαγωγής για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/902)</li></ul> <ul><li> [x] Απάντηση στων ερωτήσεων του 1ου βίντεο που υπάρχει στο Edpuzzle</li></ul>| Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
 | 2 | <ul><li> [x] <a href="#arch_linux_installation">Επιτυχής εγκατάσταση Arch linux σε USB stick + Αναλυτική περιγραφή της εγκατάστασης</a> </ul></li> <ul><li> [x] [Video recording asciinema με PS1 (αλλαγή prompt σε 2021013 [AM]) + neofetch + journactl -b](https://asciinema.org/a/529148) </ul></li>  <ul><li> [x] Απάντηση στων ερωτήσεων του 2ου βίντεο που υπάρχει στο Edpuzzle </ul></li> |[Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 2 ](https://github.com/courses-ionio/help/discussions/1055)| Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας|
 | 3 | <ul><li> [ ] Συμμετοχικό περιεχόμενο A1 </ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 3ου βίντεο που υπάρχει στο Edpuzzle </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 3 ](https://github.com/courses-ionio/help/discussions/1229)| Έχει γίνει το 50% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
-| 4 | <ul><li> [ ] Άσκηση γραμμής εντολών (warm up cli) </ul></li> <ul><li> [x] Συμμετοχικό περιεχόμενο A1 </ul></li> <ul><li> [ ] Απάντηση στων ερωτήσεων του 3ου βίντεο που υπάρχει στο Edpuzzle </ul></li>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 3 σε ολοκληρωμένη μορφή](https://github.com/courses-ionio/help/discussions/1229) | |
+| 4 | <ul><li> [ ] Άσκηση γραμμής εντολών (warm up cli) </ul></li> <ul><li> [x] Συμμετοχικό περιεχόμενο A1 </ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 3ου βίντεο που υπάρχει στο Edpuzzle </ul></li>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 3 σε ολοκληρωμένη μορφή](https://github.com/courses-ionio/help/discussions/1229) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -40,7 +40,7 @@ Our Organization: [Η Ομάδα μας](https://github.com/OMADA12)
 και δείχνει τα αποτελέσματα των εντολών "PS1=["2021013\w]#"", "neofetch" και "sudo journalctl -b".<br>
  
  <a href="https://asciinema.org/a/mpbE2As74UV6mMgLIyK7dem1t">link gia to asciinema</a>
-# <h1 id="arch_linux_installation"> 3ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο A1:</h1>
+# 3ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο A1:
 Ως απλό μέλος της <a href="https://github.com/OMADA12">ομάδας μου</a> ασχολήθηκα με δύο διαφορετικά θέματα τα οποία ασχολούνται και τα δύο με την βιομηχανία των βιντεοπαιχνιδιών. Πιο συγκεκριμένα, το πρώτο μου θέμα, το οποίο είναι η γνωστή κονσόλα βιντεοπαιχνιδιών <a href="https://en.wikipedia.org/wiki/GameCube">nintendo-gamecube</a>, αφορά τις κονσόλες και το δεύτερο, το οποίο ήταν το πασίγνωστο βιντεοπαιχνίδι <a href="https://en.wikipedia.org/wiki/Tetris">Tetris</a>, ανήκει στην κατηγορία των βιντεοπαιχνιδιών.  
 <h2>1. Σύντομη Περιγραφή: Nintendo - Gamecube</h2>
 Το Nintendo GameCube είναι η κονσόλα έκτης γενιάς της Nintendo και κυκλοφόρησε στην Ιαπωνία τον Σεπτέμβρη του 2001 και ύστερα στην Ευρώπη το Μάιο του 2002. Είναι η πρώτη παιχνιδομηχανή της Nintendo που χρησιμοποιεί για αποθηκευτικό μέσο για τα παιχνίδια της mini-DVD αντί για κασέτες, με αποτέλεσμα να καταλήξει να βρίσκεται σε ανταγωνισμό με τις δύο μεγαλύτερες επιχειρήσεις της αγοράς βιντεοπαιχνιδιών στον κόσμο, την Sony και την microsoft που χρησιμοποιούσαν κυρίως DVD. Επίσης, είναι σημαντικό να αναφερθεί ότι το GameCube εισήγαγε μια ποικιλία από επιλογές συνδεσιμότητας για κονσόλες Nintendo και είναι η πρώτη κονσόλα της Nintendo έξω από την Ιαπωνία που υποστήριξε το online play επισήμως, μέσω του Nintendo GameCube Broadband Adapter και Modem Adapter.
@@ -80,3 +80,8 @@ To Tetris είναι ένα βιντεοπαιχνίδι παζλ, το οποί
 ### PULL-REQUESTS:
 1. Pull-request από το προσωπικό [`nkanagno/_gallery`](https://github.com/nkanagno/_gallery) προς στο [`OMADA12/_gallery`](https://github.com/OMADA12/_gallery) του organization της ομάδας μας:<a href="https://github.com/OMADA12/_gallery/pull/6"> "upload md files"</a>
 2. Pull-request από το προσωπικό [`nkanagno/images`](https://github.com/nkanagno/images) προς στο [`OMADA12/images`](https://github.com/OMADA12/images) του organization της ομάδας μας:<a href="https://github.com/OMADA12/images/pull/4"> "upload jpg files"</a>
+
+
+# 4ο ΠΑΡΑΔΟΤΕΟ - Warm ups CLI (Command Line Interface):
+1.Showing the weather: <a href="https://asciinema.org/a/533279">wttr</a> 
+2.
