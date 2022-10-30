@@ -93,8 +93,10 @@ To Tetris είναι ένα βιντεοπαιχνίδι παζλ, το οποί
 
 
 # 4ο ΠΑΡΑΔΟΤΕΟ - Warm ups CLI (Command Line Interface):
-1. Showing the weather of Corfu: <a href="https://asciinema.org/a/533401">`wttr`</a>             <br>
-2. Showing the emacs org mode:   <a href="https://asciinema.org/a/533397">`Emacs org mode`</a>   <br>
-3. Showing my time through jrnl: <a href="https://asciinema.org/a/533466">`jrnl` </a>            <br>
-4. Showing how to install and play an mp3 file from youtube: <a href="https://asciinema.org/a/Vz8USGFzxo7hR5DNa64ol4tHf">`youtube-idl`</a>       <br>
-5. Read the news with newsboat: <a href="https://asciinema.org/a/533527">`newsboat`</a>            <br>     
+Έχοντας καταφέρει να εγκαταστήσω από το <a href="#arch_linux_installation">2ο Παραδοτέο</a> το λειτουργικό σύστημα arch linux σε usb δηλαδή σε hardware μορφή, <br>
+είχα ήδη μία ιδέα για το πως να το χειριστώ. Έτσι εκτέλεσα μερικές warm up εντολές όπου η κάθε μία πραγματοποιεί διαφορετική λειτουργία μέσα στο σύστημα. Την κάθε εντολή την κατέγραψα σε μορφή βίντεο μέσω της εφαρμογής `asciinema` με τα εξής links:  
+1. Δείχνω τον καιρό της κέρκυρας και της ισπανίας: <a href="https://asciinema.org/a/533401">`wttr`</a>             <br>
+2. Παρουσιάζω μερικές δυνατότητες του org mode του Emacs: <a href="https://asciinema.org/a/533397">`Emacs org mode`</a>   <br>
+3. Εμφάνισα την τρέχον χρονική στιγμή γράφοντας και ένα μύνημα: <a href="https://asciinema.org/a/533466">`jrnl` </a>            <br>
+4. Εξηγώ πως να εγκαταστήσει και να παίξει κάποιος ένα αρχείο mp3 από το youtube: <a href="https://asciinema.org/a/Vz8USGFzxo7hR5DNa64ol4tHf">`youtube-idl`</a> <br>
+5. Διαβάζω τα νέα με ένα αρχείο `RSS`: <a href="https://asciinema.org/a/533527">`newsboat`</a>            <br>     
