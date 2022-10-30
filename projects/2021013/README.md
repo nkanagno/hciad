@@ -4,7 +4,7 @@
 | [Github](https://github.com/nkanagno) | Νικόλας | Αναγνωστόπουλος | nkanagno | inf2021013 | inf2021013@ionio.gr |
 | Edpuzzle | Νικόλας Αναγνωστόπουλος | inf2021013 | inf2021013 | inf2021013 | inf2021013@ionio.gr |
 
-Όνομα ομάδας: OMADA12
+Όνομα ομάδας: OMADA12 <br>
 GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 | # | Αριθμός Μητρώου | GitHub profile |
 | -- | -- | -- |
