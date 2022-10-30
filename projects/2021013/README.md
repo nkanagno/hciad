@@ -4,7 +4,17 @@
 | [Github](https://github.com/nkanagno) | Νικόλας | Αναγνωστόπουλος | nkanagno | inf2021013 | inf2021013@ionio.gr |
 | Edpuzzle | Νικόλας Αναγνωστόπουλος | inf2021013 | inf2021013 | inf2021013 | inf2021013@ionio.gr |
 
-Our Organization: [Η Ομάδα μας](https://github.com/OMADA12)
+Όνομα ομάδας: OMADA12
+GitHub organisation url: [OMADA12](https://github.com/OMADA12)
+| # | Αριθμός Μητρώου | GitHub profile |
+| -- | -- | -- |
+| 1 | inf2021112 | [Gkirikos](https://github.com/orgs/OMADA12/people/Gkirikos) |
+| 2 | inf2021013 | [nkangno](https://github.com/orgs/OMADA12/people/nkanagno) |
+| 3 | inf2021084 | [R3try0](https://github.com/orgs/OMADA12/people/R3try0) |
+| 4 | inf2021055 | [Axileaszervos](https://github.com/orgs/OMADA12/people/Axileaszervos) |
+| 5 | inf2021147 | [PanMour](https://github.com/orgs/OMADA12/people/PanMour) |
+| 6 | inf2021030 | [WinnersDontDuck](https://github.com/orgs/OMADA12/people/WinnersDontDuck) |
+
 # Επικοινωνία Ανθρώπου-Υπολογιστή
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
