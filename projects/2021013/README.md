@@ -83,5 +83,5 @@ To Tetris είναι ένα βιντεοπαιχνίδι παζλ, το οποί
 
 
 # 4ο ΠΑΡΑΔΟΤΕΟ - Warm ups CLI (Command Line Interface):
-1. Showing the weather of Corfu: <a href="https://asciinema.org/a/533279">`wttr`</a> <br>
+1. Showing the weather of Corfu: <a href="https://asciinema.org/a/533401">`wttr`</a> <br>
 2. Showing the emacs org mode: <a href="https://asciinema.org/a/533397">`Emacs org mode`</a><br>
