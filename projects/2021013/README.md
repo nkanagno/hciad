@@ -86,4 +86,4 @@ To Tetris είναι ένα βιντεοπαιχνίδι παζλ, το οποί
 1. Showing the weather of Corfu: <a href="https://asciinema.org/a/533401">`wttr`</a>             <br>
 2. Showing the emacs org mode:   <a href="https://asciinema.org/a/533397">`Emacs org mode`</a>   <br>
 3. Showing my time through jrnl: <a href="https://asciinema.org/a/533466">`jrnl` </a>            <br>
-4. Showing how to install and play an mp3 file from youtube: <a href="https://asciinema.org/a/Vz8USGFzxo7hR5DNa64ol4tHf">youtube-idl</a>       <br>     
+4. Showing how to install and play an mp3 file from youtube: <a href="https://asciinema.org/a/Vz8USGFzxo7hR5DNa64ol4tHf">`youtube-idl`</a>       <br>     
