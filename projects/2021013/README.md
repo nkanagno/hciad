@@ -79,8 +79,8 @@ To Tetris είναι ένα βιντεοπαιχνίδι παζλ, το οποί
    * Η φωτογραφία του [`Tetris - thump.jpg`](https://github.com/OMADA12/images/blob/master/Tetris-thumb.jpg) resized σε 160x160 pixels 
 
 ### PULL-REQUESTS:
-1. Pull-request από το προσωπικό [`nkanagno/_gallery`](https://github.com/nkanagno/_gallery) προς στο [`OMADA12/_gallery`](https://github.com/OMADA12/_gallery) του organization της ομάδας μας:<a href="https://github.com/OMADA12/_gallery/pull/6"> "upload md files"</a>
-2. Pull-request από το προσωπικό [`nkanagno/images`](https://github.com/nkanagno/images) προς στο [`OMADA12/images`](https://github.com/OMADA12/images) του organization της ομάδας μας:<a href="https://github.com/OMADA12/images/pull/4"> "upload jpg files"</a>
+1. Pull-request από το προσωπικό [`nkanagno/_gallery`](https://github.com/nkanagno/_gallery) προς στο [`OMADA12/_gallery`](https://github.com/OMADA12/_gallery) του organization της ομάδας μας:<a href="https://github.com/OMADA12/_gallery/pull/1"> "upload md files"</a>
+2. Pull-request από το προσωπικό [`nkanagno/images`](https://github.com/nkanagno/images) προς στο [`OMADA12/images`](https://github.com/OMADA12/images) του organization της ομάδας μας:<a href="https://github.com/OMADA12/images/pull/1"> "upload jpg files"</a>
 
 
 # 4ο ΠΑΡΑΔΟΤΕΟ - Warm ups CLI (Command Line Interface):
