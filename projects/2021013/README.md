@@ -98,7 +98,7 @@ To Tetris είναι ένα βιντεοπαιχνίδι παζλ, το οποί
 <<  περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.) >>.
 ## 1o MD File: `Nintendo Gamecube`
 
-[ `Nintendo Gamecube` Στο github](https://github.com/nkanagno/_gallery/blob/master/Nintendo-Gamecube.md)
+[ `Nintendo Gamecube` Στο github](https://github.com/nkanagno/_gallery/blob/master/Nintendo-Gamecube.md) <br>
 [ `Nintendo Gamecube` Στο netlify](https://nkanagno.netlify.app/gallery/nintendo-gamecube/)
 | Πλατφόρμα | slides | timeline | 
 | --- | --- | --- | 
@@ -107,7 +107,7 @@ To Tetris είναι ένα βιντεοπαιχνίδι παζλ, το οποί
 
 ## 2o MD File: `Tetris`
 
-[`Tetris` Στο github](https://github.com/nkanagno/_gallery/blob/master/Tetris.md)
+[`Tetris` Στο github](https://github.com/nkanagno/_gallery/blob/master/Tetris.md) <br>
 [`Tetris`Στο netlify](https://nkanagno.netlify.app/gallery/tetris/)
 | Πλατφόρμα | slides | timeline | 
 | --- | --- | --- | 
