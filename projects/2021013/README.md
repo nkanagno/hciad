@@ -14,7 +14,7 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 | 2 | <ul><li> [x] <a href="#arch_linux_installation">Επιτυχής εγκατάσταση Arch linux σε USB stick + Αναλυτική περιγραφή της εγκατάστασης</a> </ul></li> <ul><li> [x] [Video recording asciinema με PS1 (αλλαγή prompt σε 2021013 [AM]) + neofetch + journactl -b](https://asciinema.org/a/529148) </ul></li>  <ul><li> [x] Απάντηση στων ερωτήσεων του 2ου βίντεο που υπάρχει στο Edpuzzle </ul></li> |[Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 2 ](https://github.com/courses-ionio/help/discussions/1055)| Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας|
 | 3 | <ul><li> [ ] Συμμετοχικό περιεχόμενο A1 </ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 3ου βίντεο που υπάρχει στο Edpuzzle </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 3 ](https://github.com/courses-ionio/help/discussions/1229)| Έχει γίνει το 50% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
 | 4 | <ul><li> [x] Άσκηση γραμμής εντολών (warm up cli) </ul></li> <ul><li> [x] Συμμετοχικό περιεχόμενο A1 </ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 3ου βίντεο που υπάρχει στο Edpuzzle </ul></li>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1378) |Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 | <ul><li> [x] Συμμετοχικό περιεχόμενο A2 </ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 4ου βίντεο που υπάρχει στο Edpuzzle </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 5](https://github.com/courses-ionio/help/discussions/1481) |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
@@ -90,4 +90,26 @@ To Tetris είναι ένα βιντεοπαιχνίδι παζλ, το οποί
 2. Παρουσιάζω μερικές δυνατότητες του org mode του Emacs: <a href="https://asciinema.org/a/533590">`Emacs org mode`</a>   <br>
 3. Εμφάνισα την τρέχον χρονική στιγμή γράφοντας και ένα μύνημα: <a href="https://asciinema.org/a/533466">`jrnl` </a>            <br>
 4. Εξηγώ πως να εγκαταστήσει και να παίξει κάποιος ένα αρχείο mp3 από το youtube: <a href="https://asciinema.org/a/Vz8USGFzxo7hR5DNa64ol4tHf">`youtube-idl`</a> <br>
-5. Διαβάζω τα νέα με ένα αρχείο `RSS`: <a href="https://asciinema.org/a/533527">`newsboat`</a>            <br>     
+5. Διαβάζω τα νέα με ένα αρχείο `RSS`: <a href="https://asciinema.org/a/533527">`newsboat`</a>            <br>
+## 5ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο A2:
+Στο συγκεκριμένο παραδοτέο έφτιαξα ως κατηγοριες στα slides για το πρώτο .md μου, δηλαδή για το `Nintendo Gamecube`, το 
+<< Προιόντα εταιρειών >> και για το δεύτερο .md, δηλαδή για το `tetris`, πρόσθεσα το << Eφαρμογές επίλυσης προβλημάτων >>. Στη συνεχεια ως κατηγοριες στα timelines για το πρώτο .md μου, δηλαδή για το `Nintendo Gamecube`, το 
+<< Συσκευές ψυχαγωγίας >> και για το δεύτερο .md, δηλαδή για το `tetris`, πρόσθεσα το 
+<<  περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.) >>.
+## 1o MD File: `Nintendo Gamecube`
+
+[ `Nintendo Gamecube` Στο github](https://github.com/nkanagno/_gallery/blob/master/Nintendo-Gamecube.md)
+[ `Nintendo Gamecube` Στο netlify](https://nkanagno.netlify.app/gallery/nintendo-gamecube/)
+| Πλατφόρμα | slides | timeline | 
+| --- | --- | --- | 
+| [Github account](https://github.com/nkanagno) | [Προιόντα εταιρειών ](https://github.com/nkanagno/site/blob/master/_slides/Company-Products.md) | [Συσκευές ψυχαγωγίας](https://github.com/nkanagno/site/blob/master/_timeline/devices-for-entertainment.md) |
+| [netlify](https://nkanagno.netlify.app/) | [Προιόντα εταιρειών ](https://nkanagno.netlify.app/slides/company-products/)| [Συσκευές ψυχαγωγίας](https://nkanagno.netlify.app/timeline/devices-for-entertainment/) |
+
+## 2o MD File: `Tetris`
+
+[`Tetris` Στο github](https://github.com/nkanagno/_gallery/blob/master/Tetris.md)
+[`Tetris`Στο netlify](https://nkanagno.netlify.app/gallery/tetris/)
+| Πλατφόρμα | slides | timeline | 
+| --- | --- | --- | 
+| [Github account](https://github.com/nkanagno) | [Eφαρμογές επίλυσης προβλημάτων ](https://github.com/nkanagno/site/blob/master/_slides/Problem-Solving-Apps.md) | [περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.)](https://github.com/nkanagno/site/blob/master/_timeline/narrow-artificial-intelligence.md) |
+| [netlify](https://nkanagno.netlify.app/) | [Eφαρμογές επίλυσης προβλημάτων](https://nkanagno.netlify.app/slides/problem-solving-apps/)| [περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.)](https://nkanagno.netlify.app/timeline/narrow-artificial-intelligence/) |
