@@ -58,9 +58,9 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 Μόλις ολοκληρώθηκε η εγκατάσταση, έκανα login, έκανα “pacman -Sy asciinema neofetch” και έφτιαξα το παρακάτω βίντεο κάνοντας “asciinema  rec”
 και δείχνει τα αποτελέσματα των εντολών: 
 
- -  `PS1=["2021013\w]#"`, 
+ -  `PS1=["2021013\w]#"`
  - `neofetch` 
- - `sudo journalctl -b`.<br>
+ - `sudo journalctl -b`<br>
 ### <a href="https://asciinema.org/a/mpbE2As74UV6mMgLIyK7dem1t">`link gia to asciinema`</a> <br>
  
 # 3ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο A1:<br>
@@ -150,7 +150,7 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 ## Εxtra Εντολές:
  1.  Παρουσιάζω το cheat.sh στο οποίο μπορείς να αποφασίσεις ποια εντολή του arch llinux να σου εξηγήσει ή να σου δώσει παραδείγματα από αυτήν. Για παράδειγμα, εγώ του ζητάω να μου εξηγήσει εδώ την εντολή `ls` : [cheat.sh](https://asciinema.org/a/537543)
 # 5ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο A2:
-Στο συγκεκριμένο παραδοτέο είχα φτιάξει ως κατηγοριες στα slides για το πρώτο .md μου, δηλαδή για το `Nintendo Gamecube`, το 
+Στο συγκεκριμένο παραδοτέο είχα αρχικά, φτιάξει ως κατηγοριες στα slides για το πρώτο .md μου, δηλαδή για το `Nintendo Gamecube`, το 
 << Προιόντα εταιρειών >> και για το δεύτερο .md, δηλαδή για το `tetris`, πρόσθεσα το << Eφαρμογές επίλυσης προβλημάτων >>. Στη συνεχεια ως κατηγοριες στα timelines για το πρώτο .md μου, δηλαδή για το `Nintendo Gamecube`, το 
 << Συσκευές ψυχαγωγίας >> και για το δεύτερο .md, δηλαδή για το `tetris`, πρόσθεσα το 
 <<  περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.) >>. Αλλά επειδή άλλαξα από το 3ο Παραδοτέο τα κυρια θέματα, έφτιαξα άλλες τέσσερις κατηγορίες (δύο ακόμη slides και δύο ακόμη timelines). Πιο συγκεκριμένα, για το θέμα `Blender` έβαλα ως κατηγορία των slides την << [`animation`](https://nkanagno.netlify.app/slides/animation/) >> και ως κατηγορία στα timelines την << [`τρισδιάστατα περιβάλλοντα`](https://nkanagno.netlify.app/timeline/3d-enviroments/) >>, ενώ για το θέμα `Unreal Engine 3`   έβαλα ως κατηγορία των slides την <<[`Ανάπτυξη βιντεπαιχνιδιών (Game Development)`](https://nkanagno.netlify.app/slides/game-development/) >> και ως κατηγορία στα timelines την  << [`Προγρμματισμός χωρίς κώδικα`](https://nkanagno.netlify.app/timeline/programming-without-coding/) .
@@ -195,17 +195,17 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 | [netlify](https://nkanagno.netlify.app/) | [Eφαρμογές επίλυσης προβλημάτων](https://nkanagno.netlify.app/slides/problem-solving-apps/)| [περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.)](https://nkanagno.netlify.app/timeline/narrow-artificial-intelligence/) |
 
 # 6ο ΠΑΡΑΔΟΤΕΟ - Κατασκευη Βιβλιου Α:
-### Το συγκεκριμένο παραδοτεο ειναι υπο βελτίωση:
- - [link του βιβλιου σε μορφη pdf στο github](https://github.com/nkanagno/kallipos/blob/master/B00K/book.pdf)
- - [link του `lua` αρχειου μου](https://github.com/nkanagno/kallipos/blob/master/dark_souls.lua)
- - [link του `md` αρχειου μου](https://github.com/nkanagno/kallipos/blob/master/MyContribution/dark_souls.md)
+### Το συγκεκριμένο παραδοτεο είναι ύπο βελτίωση:
+ - [link του βιβλίου σε μορφή pdf στο github](https://github.com/nkanagno/kallipos/blob/master/B00K/book.pdf)
+ - [link του `lua` αρχείου μου](https://github.com/nkanagno/kallipos/blob/master/dark_souls.lua)
+ - [link του `md` αρχείου μου](https://github.com/nkanagno/kallipos/blob/master/MyContribution/dark_souls.md)
  - [link του `make-latex.sh`](https://github.com/nkanagno/kallipos/blob/master/make-latex.sh)
  - [link του `book.tex` ](https://github.com/nkanagno/kallipos/blob/master/TEX/book.tex)
- - [link του αποθετηριου με τις εικονες μου αυτου του παραδοτεου](https://github.com/nkanagno/kallipos/tree/master/My_pics)
+ - [link του αποθετηρίου με τις εικίνες μου αυτού του παραδοτέου](https://github.com/nkanagno/kallipos/tree/master/My_pics)
  - [link του `το screenshot μου`](https://github.com/nkanagno/kallipos/blob/master/My_pics/screenshot_of_dark_souls_figure-MyTag.png) 
- ### Το screenshot που παραθέτω για το περιεχόμενο μου είναι το παρακάτω:
+ ### Το screenshot που παραθέτω για το περιεχόμενό μου είναι το παρακάτω:
 ![screenshot_of_dark_souls_figure-MyTag](https://user-images.githubusercontent.com/103074273/201545128-8161f5d9-5891-4cf1-ba5f-99a2579f16a2.png)
- ### Το screenshot που παραθετω για το footnote που εβαλα για το περιεχομενο μου ειναι το παρακατω:
+ ### Το screenshot που παραθέτω για το footnote που εβαλα για το περιεχόμενο μου είναι το παράκατω: (Δηλαδή το `134:figure 7 Dark souls (nintendo)`) 
    
 ![screenshot_of_dark_souls_footnote](https://user-images.githubusercontent.com/103074273/201545346-461c5e96-87b8-4ac3-b0e0-4781bc559474.png)
 
