@@ -211,10 +211,11 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 
  ### Η εικόνα που χρησιμοποίησα για το md αρχείο μου είναι η παρακάτω:
 ![dark_souls-thumb](https://user-images.githubusercontent.com/103074273/201545220-74e50a5a-b853-4ab3-a013-228631341192.jpg)
+## Δημιουργία Guide για το Παραδοτέο 6:
 Έφτιαξα ως Admin της ομάδας μου ([OMADA12](https://github.com/OMADA12)) ένα guide, με την καθοδήγηση της ομάδας: [`second-Time-Is-The-Charm`](https://github.com/second-Time-Is-The-Charm) και συγκεκριμένα του συμφοιτητή μου:
 |github profile | ονοματεπωνυμο | ΑΜ |
 | --- | --- | --- | 
 |[artopodama](https://github.com/artopodama/) | Giannis Anastasopoulos | inf2021017 |
 Ένα guide για το συγκεκριμένο παραδοτέο το οποίο αρχικά προοριζόταν να ανεβεί μόνο για τα μέλη της ομάδας μου αλλά με συνέννεση της ομάδας  [`second-Time-Is-The-Charm`](https://github.com/second-Time-Is-The-Charm), το ανέβασα στο discussions:
-
+[link του guide στο discussions](https://github.com/courses-ionio/help/discussions/1597)
 
