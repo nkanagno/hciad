@@ -218,3 +218,10 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 
 [link του guide στο discussions](https://github.com/courses-ionio/help/discussions/1597)
 
+# 7ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο B1:
+## Στο συγκεκριμενο παραδοτεο αποφασισα να ασχοληθω με την ολοκληρωμενη ιστορια της μηχανης αναπτυξης βιντεοπαιχνιδιων `Unreal Engine` και παραθετω παρακατω τα `links` για την `μελετη περιπτωσης` μου:
+- case-study unreal engine στο netlify: [`Unreal Engine`](https://nkanagno.netlify.app/case-study/unreal-engine/)
+- Στον φακελο `_includes` στο github: [`cs-unreal-engine.md`](https://github.com/nkanagno/site/blob/master/_includes/cs-unreal-engine.md)
+- Στον φακελο `_case-study` στο github: [`unreal-engine.md`](https://github.com/nkanagno/site/blob/master/_case-study/unreal-engine.md)
+## Η εικονα που προσθεσα στον φακελο images για την μελετη περιπτωσης:
+ ![unreal-engine-thumb](https://user-images.githubusercontent.com/103074273/202076737-8e54a818-ae89-4359-94ff-9564a6b23303.jpg)
