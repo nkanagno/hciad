@@ -227,7 +227,7 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 - Στον φάκελο `_includes` στο github: [`cs-unreal-engine.md`](https://github.com/nkanagno/site/blob/master/_includes/cs-unreal-engine.md)
 - Στον φάκελο `_case-study` στο github: [`unreal-engine.md`](https://github.com/nkanagno/site/blob/master/_case-study/unreal-engine.md)
 
-## Περιεχόμενο μελετη περιπτωσης:`Unreal Engine`
+## Λίγα λόγια για το Θέμα που επέλεξα: `Unreal Engine`
 ![unreal-engine-thumb](https://user-images.githubusercontent.com/103074273/202076737-8e54a818-ae89-4359-94ff-9564a6b23303.jpg)<br>
 Η Unreal Engine είναι μια μηχανή δημιουργίας βίντεοπαιχνιδιών που περιέχουν τρισδιάστατα γραφικά και περιβάλλοντα και αναπτύχθηκε από την Epic Games για πρώτη φορά το 1995. Δημιουργήθηκε κυριώς προκειμένα να υιοθετήθει από άλλες εταιρίες αυτής της βιομηχανίας. Γραμμένη ολόκληρη σε C++, διαθέτει υψηλό βαθμό φορητότητας , υποστηρίζοντας ένα ευρύ φάσμα πλατφορμών επιτραπέζιων υπολογιστών, κινητών, κονσόλων και εικονικής πραγματικότητας.
 
