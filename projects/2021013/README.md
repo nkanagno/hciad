@@ -219,9 +219,27 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 [link του guide στο discussions](https://github.com/courses-ionio/help/discussions/1597)
 
 # 7ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο B1:
-## Στο συγκεκριμενο παραδοτεο αποφασισα να ασχοληθω με την ολοκληρωμενη ιστορια της μηχανης αναπτυξης βιντεοπαιχνιδιων `Unreal Engine` και παραθετω παρακατω τα `links` για την `μελετη περιπτωσης` μου:
+Στο συγκεκριμένο παραδοτέο αποφάσισα να ασχοληθώ με την ολοκληρωμένη ιστορία της μηχανής ανάπτυξης βιντεοπαιχνιδιών `Unreal Engine`.
+Ο κύριος λόγος που επέλεξα αυτό το θέμα είναι γιατί πρώτα απ'όλα να με βοηθήσει να εμβαθύνω περισσότερο στο χώρο της ανάπτυξης βιντεοπαιχνιδιών καθώς και να μάθω ιστορικά μερικές πληροφορίες για την μηχανή που έχω σκοπό να χρησιμοποιήσω στο μέλλον. Η οποία είναι μία εφαρμογή που έχει δημιουργήσει τα περισσότερα τρισδιάστατα βινεοπαιχνίδια της σύγχρονης εποχή και δίνει την δυνατότητα στον χρήστη της, να φτιάξει φωτορεαλιστικά τρισδιάστατα περιβάλλοντα να οποία δεν διαφέρουν τόσο πολυ από τα φυσικά. 
+
+## Παραθέτω παρακάτω τα `links` για την `μελέτη περίπτωσης` μου (`github`, `netlify`):
 - case-study unreal engine στο netlify: [`Unreal Engine`](https://nkanagno.netlify.app/case-study/unreal-engine/)
-- Στον φακελο `_includes` στο github: [`cs-unreal-engine.md`](https://github.com/nkanagno/site/blob/master/_includes/cs-unreal-engine.md)
-- Στον φακελο `_case-study` στο github: [`unreal-engine.md`](https://github.com/nkanagno/site/blob/master/_case-study/unreal-engine.md)
-## Η εικονα που προσθεσα στον φακελο images για την μελετη περιπτωσης:
- ![unreal-engine-thumb](https://user-images.githubusercontent.com/103074273/202076737-8e54a818-ae89-4359-94ff-9564a6b23303.jpg)
+- Στον φάκελο `_includes` στο github: [`cs-unreal-engine.md`](https://github.com/nkanagno/site/blob/master/_includes/cs-unreal-engine.md)
+- Στον φάκελο `_case-study` στο github: [`unreal-engine.md`](https://github.com/nkanagno/site/blob/master/_case-study/unreal-engine.md)
+
+## Περιεχόμενο μελετη περιπτωσης:`Unreal Engine`
+![unreal-engine-thumb](https://user-images.githubusercontent.com/103074273/202076737-8e54a818-ae89-4359-94ff-9564a6b23303.jpg)<br>
+Η Unreal Engine είναι μια μηχανή δημιουργίας βίντεοπαιχνιδιών που περιέχουν τρισδιάστατα γραφικά και περιβάλλοντα και αναπτύχθηκε από την Epic Games για πρώτη φορά το 1995. Δημιουργήθηκε κυριώς προκειμένα να υιοθετήθει από άλλες εταιρίες αυτής της βιομηχανίας. Γραμμένη ολόκληρη σε C++, διαθέτει υψηλό βαθμό φορητότητας , υποστηρίζοντας ένα ευρύ φάσμα πλατφορμών επιτραπέζιων υπολογιστών, κινητών, κονσόλων και εικονικής πραγματικότητας.
+
+## Links από την `βιβλιογραφία` που χρησιμοποίησα για να βρω πληροφορίες για το θέμα που επέλεξα:
+ - [The Story of Epic Games: How a Game Engine Conquered The Video Game Industry](https://www.youtube.com/watch?v=6THelT7L8KU)
+ - [Unreal Engine Wikipedia](https://en.wikipedia.org/wiki/Unreal_Engine)
+ - [Epic Games wikipedia](https://el.wikipedia.org/wiki/Epic_Games)
+ - [Introduction to Unreal Kismet](https://www.oreilly.com/library/view/mastering-unreal-technology/9780768689006/ch09.html)
+ - [Unreal Engine 5 Revealed! | Next-Gen Real-Time Demo Running on PlayStation 5](https://www.youtube.com/watch?v=qC5KtatMcUw)
+ - [the history of game engines](https://prezi.com/w56f8xawwcyg/the-history-of-game-engines/)
+ - [blueprint](https://subscription.packtpub.com/book/game-development/9781784397777/1/ch01lvl1sec08/what-is-blueprint)
+ - [blueprint vs kismet forum](https://forums.unrealengine.com/t/blue-print-vs-kismet/52216/7)
+ - [unreal engine image](https://www.pcmag.com/news/unreal-engine-5-promises-super-realistic-game-graphics)
+
+ 
