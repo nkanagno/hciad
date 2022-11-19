@@ -192,23 +192,24 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 | [netlify](https://nkanagno.netlify.app/) | [Eφαρμογές επίλυσης προβλημάτων](https://nkanagno.netlify.app/slides/problem-solving-apps/)| [περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.)](https://nkanagno.netlify.app/timeline/narrow-artificial-intelligence/) |
 
 # <h1 id="BOOK_A">6ο ΠΑΡΑΔΟΤΕΟ - Κατασκευη Βιβλιου Α: </h1>
-### Το συγκεκριμένο παραδοτεο είναι ύπο βελτίωση:
+## Η Συνοχή μου στο βιβλίο:
+Στο κεφάλαιο 5 (Μοντέλα), και για περισσότερη ακρίβεια στη σελίδα 163, αναφέρει ότι συγκεκριμένα βιντεοπαιχνίδια, την ψυχαγωγία στον παίκτη την πετυχαίνουν όχι μόνο με το να τον διευκολύνουν αλλά αρκετές φορές και να τον δυσκολέψουν. Μέσα από αυτό μικρό κειμενάκι αποφάσισα να αναφέρω ως fun fact την επιτυχία του dark souls. Πιο συγκεκριμένα, το dark souls είναι το τέλειο παράδειγμα σε αυτή την περίπτωση, χρωστώντας όλη του την επιτυχία στο υψηλό επίπεδο δυσκολίας του. Θεωρείται επίσης ως ένα από τα καλύτερα και πιο λατρεμένα βιντεοπαιχνίδια όλων τον εποχών ενώ ταυτοχρόνως θεωρείται και ένα από τα πιο δύσκολα βιντεοπαιχνίδια όλων το εποχών και αυτό το κάνει τόσο ενδιαφέρον και ψυχαγωγικό για τους χρήστες.
+## Το φίλτρο μου:
+Αρχικά έφτιαξα ένα markdown αρχείο το οποίο το ονόμασα [`dark_souls_fun_fact.md`]() και περιέχει caption (το περιεχόμενό μου), name (το ονοματεπώνυμό μου), id (τον αριθμό μητρώου), link και linkname (ο σύνδεσμος ο οποίος μεταβιβάζει τον χρήστη στη wikipedia που περιέχει περισσότερες πληροφορίες για το περιεχόμενο μου). Στη συνέχεια δημιούργησα ένα lua αρχείο και το ονόμασα [`fun_fact.lua`](), το οποίο αυτό που κάνει είναι γράφει στην αρχή `fun fact:`, από κάτω περιέχει το `caption` μου και τέλος υπάρχει μία γραμμή που διαχωρίζει το περιεχόμενό μου με το ονοματεπώνυμο μου, τον αριθμό μητρώου και το link μου.
+#### Την ολοκληρωμένη διαδικασία που ακολούθησα για αυτό το παραδοτέο την εξηγώ λεπτομερώς στο: <a href="#guide">`guide`</a> μου
+### Παραθέτω επίσης τα παρακάτω links:
  - [link του βιβλίου σε μορφή pdf στο github](https://github.com/nkanagno/kallipos/blob/master/B00K/book.pdf)
  - [link του `lua` αρχείου μου](https://github.com/nkanagno/kallipos/blob/master/dark_souls.lua)
  - [link του `md` αρχείου μου](https://github.com/nkanagno/kallipos/blob/master/MyContribution/dark_souls.md)
  - [link του `make-latex.sh`](https://github.com/nkanagno/kallipos/blob/master/make-latex.sh)
  - [link του `book.tex` ](https://github.com/nkanagno/kallipos/blob/master/TEX/book.tex)
- - [link του αποθετηρίου με τις εικίνες μου αυτού του παραδοτέου](https://github.com/nkanagno/kallipos/tree/master/My_pics)
+ - [link του αποθετηρίου με τις εικόνες μου αυτού του παραδοτέου](https://github.com/nkanagno/kallipos/tree/master/My_pics)
  - [link του `το screenshot μου`](https://github.com/nkanagno/kallipos/blob/master/My_pics/screenshot_of_dark_souls_figure-MyTag.png) 
  ### Το screenshot που παραθέτω για το περιεχόμενό μου είναι το παρακάτω:
 ![screenshot_of_dark_souls_figure-MyTag](https://user-images.githubusercontent.com/103074273/201545128-8161f5d9-5891-4cf1-ba5f-99a2579f16a2.png)
- ### Το screenshot που παραθέτω για το footnote που εβαλα για το περιεχόμενο μου είναι το παράκατω: (Δηλαδή το `134:figure 7 Dark souls (nintendo)`) 
-   
-![screenshot_of_dark_souls_footnote](https://user-images.githubusercontent.com/103074273/201545346-461c5e96-87b8-4ac3-b0e0-4781bc559474.png)
 
- ### Η εικόνα που χρησιμοποίησα για το md αρχείο μου είναι η παρακάτω:
-![dark_souls-thumb](https://user-images.githubusercontent.com/103074273/201545220-74e50a5a-b853-4ab3-a013-228631341192.jpg)
-## Δημιουργία Guide για το Παραδοτέο 6:
+
+# <h1 id="guide">Δημιουργία Guide για το Παραδοτέο 6:<h1>
 Έφτιαξα ως Admin της ομάδας μου ([OMADA12](https://github.com/OMADA12)) ένα guide, με την καθοδήγηση της ομάδας: [`second-Time-Is-The-Charm`](https://github.com/second-Time-Is-The-Charm) και συγκεκριμένα του συμφοιτητή μου:
 |github profile | ονοματεπωνυμο | ΑΜ |
 | --- | --- | --- | 
@@ -216,7 +217,7 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 ### Υποσημειωση:
 > Το guide αυτό είναι για το συγκεκριμένο παραδοτέο και αρχικά προοριζόταν να ανεβεί μόνο για τα μέλη της ομάδας μου αλλά με συνέννεση της ομάδας  [`second-Time-Is-The-Charm`](https://github.com/second-Time-Is-The-Charm), το ανέβασα στο discussions:
 
-[link του guide στο discussions](https://github.com/courses-ionio/help/discussions/1597)
+### [link του guide στο discussions](https://github.com/courses-ionio/help/discussions/1597)
 
 # <h1 id="B1">7ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο B1: </h1>
 Στο συγκεκριμένο παραδοτέο αποφάσισα να ασχοληθώ με την ολοκληρωμένη ιστορία της μηχανής ανάπτυξης βιντεοπαιχνιδιών `Unreal Engine`.
