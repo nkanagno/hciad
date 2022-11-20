@@ -204,7 +204,7 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
  - [link του `md` αρχειου μου](https://github.com/nkanagno/kallipos/blob/master/MyContribution/dark_souls_fun_fact.md)
  - [link του `make-latex.sh`](https://github.com/nkanagno/kallipos/blob/master/make-latex.sh)
  - [link του `book.tex` ](https://github.com/nkanagno/kallipos/blob/master/TEX/book.tex)
- - [link του `το screenshot μου`](https://github.com/nkanagno/kallipos/blob/master/My_pics/screenshot_of_dark_souls_figure-MyTag.png) 
+ - [link του `το screenshot μου`](https://github.com/nkanagno/kallipos/blob/master/My_pics/my_contribution.png) 
 ### Το screenshot που παραθέτω για το περιεχόμενό μου είναι το παρακάτω:
 ![my_contribution-thumb](https://user-images.githubusercontent.com/103074273/202919077-db3f0fa0-5b76-48a9-9469-4aed0eb13263.png)
 # <h1 id="guide">Δημιουργία Guide για το Παραδοτέο 6:<h1>
