@@ -198,6 +198,7 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 Αρχικά έφτιαξα ένα markdown αρχείο το οποίο το ονόμασα [`dark_souls_fun_fact.md`](https://github.com/nkanagno/kallipos/blob/master/MyContribution/dark_souls_fun_fact.md) και περιέχει caption (το περιεχόμενό μου), name (το ονοματεπώνυμό μου), id (τον αριθμό μητρώου), link και linkname (ο σύνδεσμος ο οποίος μεταβιβάζει τον χρήστη στη wikipedia που περιέχει περισσότερες πληροφορίες για το περιεχόμενο μου). Στη συνέχεια δημιούργησα ένα lua αρχείο και το ονόμασα [`fun_fact.lua`](https://github.com/nkanagno/kallipos/blob/master/fun_fact.lua), το οποίο αυτό που κάνει είναι γράφει στην αρχή `fun fact:`, από κάτω περιέχει το `caption` μου και τέλος υπάρχει μία γραμμή που διαχωρίζει το περιεχόμενό μου με το ονοματεπώνυμο μου, τον αριθμό μητρώου και το link μου.
 #### Την ολοκληρωμένη διαδικασία που ακολούθησα για αυτό το παραδοτέο την εξηγώ λεπτομερώς στο: <a href="#guide">`guide`</a> μου
 ### Παραθέτω επίσης τα παρακάτω links:
+
  - [link του βιβλιου σε μορφη pdf στο github](https://github.com/nkanagno/kallipos/issues/1)
  - [link του `lua` αρχειου μου](https://github.com/nkanagno/kallipos/blob/master/fun_fact.lua)
  - [link του `md` αρχειου μου](https://github.com/nkanagno/kallipos/blob/master/MyContribution/dark_souls_fun_fact.md)
@@ -205,8 +206,7 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
  - [link του `book.tex` ](https://github.com/nkanagno/kallipos/blob/master/TEX/book.tex)
  - [link του `το screenshot μου`](https://github.com/nkanagno/kallipos/blob/master/My_pics/screenshot_of_dark_souls_figure-MyTag.png) 
 ### Το screenshot που παραθέτω για το περιεχόμενό μου είναι το παρακάτω:
-![my_contribution-thumb](https://user-images.githubusercontent.com/103074273/202918348-b8104c10-facd-4a7c-8a1e-40f07f803a99.png)
-
+![my_contribution-thumb](https://user-images.githubusercontent.com/103074273/202919077-db3f0fa0-5b76-48a9-9469-4aed0eb13263.png)
 # <h1 id="guide">Δημιουργία Guide για το Παραδοτέο 6:<h1>
 Έφτιαξα ως Admin της ομάδας μου ([OMADA12](https://github.com/OMADA12)) ένα guide, με την καθοδήγηση της ομάδας: [`second-Time-Is-The-Charm`](https://github.com/second-Time-Is-The-Charm) και συγκεκριμένα του συμφοιτητή μου:
 |github profile | ονοματεπωνυμο | ΑΜ |
