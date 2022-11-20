@@ -206,7 +206,8 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
  - [link του `book.tex` ](https://github.com/nkanagno/kallipos/blob/master/TEX/book.tex)
  - [link του `το screenshot μου`](https://github.com/nkanagno/kallipos/blob/master/My_pics/my_contribution.png) 
 ### Το screenshot που παραθέτω για το περιεχόμενό μου είναι το παρακάτω:
-![my_contribution-thumb](https://user-images.githubusercontent.com/103074273/202919077-db3f0fa0-5b76-48a9-9469-4aed0eb13263.png)
+![my_contribution](https://user-images.githubusercontent.com/103074273/202919471-d6fa49ea-a244-4c92-9c15-a0e4c73ae914.png)
+
 # <h1 id="guide">Δημιουργία Guide για το Παραδοτέο 6:<h1>
 Έφτιαξα ως Admin της ομάδας μου ([OMADA12](https://github.com/OMADA12)) ένα guide, με την καθοδήγηση της ομάδας: [`second-Time-Is-The-Charm`](https://github.com/second-Time-Is-The-Charm) και συγκεκριμένα του συμφοιτητή μου:
 |github profile | ονοματεπωνυμο | ΑΜ |
