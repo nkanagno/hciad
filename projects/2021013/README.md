@@ -16,7 +16,7 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 | 4 | <ul><li> [x] <a href="#warm_ups">Άσκηση γραμμής εντολών (warm up cli)</a> </ul></li> <ul><li> [x] <a href="#A1">Συμμετοχικό περιεχόμενο A1 </a> </ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 4ου βίντεο που υπάρχει στο Edpuzzle </ul></li>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1378) |Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
 | 5 | <ul><li> [x] <a href="#A2">Συμμετοχικό περιεχόμενο A2</a> </ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 5ου βίντεο που υπάρχει στο Edpuzzle </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 5](https://github.com/courses-ionio/help/discussions/1481) | Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
 | 6 |  <ul><li> [x] <a href="#BOOK_A">Κατασκευή του βιβλίου Α </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 6ου βίντεο που υπάρχει στο Edpuzzle </ul></li>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 6](https://github.com/courses-ionio/help/discussions/1587) | Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
-| 7 | <ul><li> [x] <a href="#B1">Συμμετοχικό περιεχόμενο B1 </a></ul></li> <ul><li> [ ] Απάντηση στων ερωτήσεων του 7ου βίντεο που υπάρχει στο Edpuzzle </ul></li>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 7](https://github.com/courses-ionio/help/discussions/1624) | Έχει γίνει το 50% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
+| 7 | <ul><li> [x] <a href="#B1">Συμμετοχικό περιεχόμενο B1 </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 7ου βίντεο που υπάρχει στο Edpuzzle </ul></li>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 7](https://github.com/courses-ionio/help/discussions/1624) | Έχει γίνει το 50% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
@@ -198,16 +198,14 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 Αρχικά έφτιαξα ένα markdown αρχείο το οποίο το ονόμασα [`dark_souls_fun_fact.md`]() και περιέχει caption (το περιεχόμενό μου), name (το ονοματεπώνυμό μου), id (τον αριθμό μητρώου), link και linkname (ο σύνδεσμος ο οποίος μεταβιβάζει τον χρήστη στη wikipedia που περιέχει περισσότερες πληροφορίες για το περιεχόμενο μου). Στη συνέχεια δημιούργησα ένα lua αρχείο και το ονόμασα [`fun_fact.lua`](), το οποίο αυτό που κάνει είναι γράφει στην αρχή `fun fact:`, από κάτω περιέχει το `caption` μου και τέλος υπάρχει μία γραμμή που διαχωρίζει το περιεχόμενό μου με το ονοματεπώνυμο μου, τον αριθμό μητρώου και το link μου.
 #### Την ολοκληρωμένη διαδικασία που ακολούθησα για αυτό το παραδοτέο την εξηγώ λεπτομερώς στο: <a href="#guide">`guide`</a> μου
 ### Παραθέτω επίσης τα παρακάτω links:
- - [link του βιβλίου σε μορφή pdf στο github](https://github.com/nkanagno/kallipos/blob/master/B00K/book.pdf)
- - [link του `lua` αρχείου μου](https://github.com/nkanagno/kallipos/blob/master/dark_souls.lua)
- - [link του `md` αρχείου μου](https://github.com/nkanagno/kallipos/blob/master/MyContribution/dark_souls.md)
+ - [link του βιβλιου σε μορφη pdf στο github](https://github.com/nkanagno/kallipos/issues/1)
+ - [link του `lua` αρχειου μου](https://github.com/nkanagno/kallipos/blob/master/fun_fact.lua)
+ - [link του `md` αρχειου μου](https://github.com/nkanagno/kallipos/blob/master/MyContribution/dark_souls_fun_fact.md)
  - [link του `make-latex.sh`](https://github.com/nkanagno/kallipos/blob/master/make-latex.sh)
  - [link του `book.tex` ](https://github.com/nkanagno/kallipos/blob/master/TEX/book.tex)
- - [link του αποθετηρίου με τις εικόνες μου αυτού του παραδοτέου](https://github.com/nkanagno/kallipos/tree/master/My_pics)
  - [link του `το screenshot μου`](https://github.com/nkanagno/kallipos/blob/master/My_pics/screenshot_of_dark_souls_figure-MyTag.png) 
- ### Το screenshot που παραθέτω για το περιεχόμενό μου είναι το παρακάτω:
-![screenshot_of_dark_souls_figure-MyTag](https://user-images.githubusercontent.com/103074273/201545128-8161f5d9-5891-4cf1-ba5f-99a2579f16a2.png)
-
+### Το screenshot που παραθέτω για το περιεχόμενό μου είναι το παρακάτω:
+![my_contribution-thumb](https://user-images.githubusercontent.com/103074273/202918348-b8104c10-facd-4a7c-8a1e-40f07f803a99.png)
 
 # <h1 id="guide">Δημιουργία Guide για το Παραδοτέο 6:<h1>
 Έφτιαξα ως Admin της ομάδας μου ([OMADA12](https://github.com/OMADA12)) ένα guide, με την καθοδήγηση της ομάδας: [`second-Time-Is-The-Charm`](https://github.com/second-Time-Is-The-Charm) και συγκεκριμένα του συμφοιτητή μου:
