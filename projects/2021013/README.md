@@ -16,8 +16,8 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 | 4 | <ul><li> [x] <a href="#warm_ups">Άσκηση γραμμής εντολών (warm up cli)</a> </ul></li> <ul><li> [x] <a href="#A1">Συμμετοχικό περιεχόμενο A1 </a> </ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 4ου βίντεο που υπάρχει στο Edpuzzle </ul></li>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1378) |Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
 | 5 | <ul><li> [x] <a href="#A2">Συμμετοχικό περιεχόμενο A2</a> </ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 5ου βίντεο που υπάρχει στο Edpuzzle </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 5](https://github.com/courses-ionio/help/discussions/1481) | Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
 | 6 |  <ul><li> [x] <a href="#BOOK_A">Κατασκευή του βιβλίου Α </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 6ου βίντεο που υπάρχει στο Edpuzzle </ul></li>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 6](https://github.com/courses-ionio/help/discussions/1587) | Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
-| 7 | <ul><li> [x] <a href="#B1">Συμμετοχικό περιεχόμενο B1 </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 7ου βίντεο που υπάρχει στο Edpuzzle </ul></li>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 7](https://github.com/courses-ionio/help/discussions/1624) | Έχει γίνει το 50% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
-| 8 | Άσκηση γραμμής εντολών | | |
+| 7 | <ul><li> [x] <a href="#B1">Συμμετοχικό περιεχόμενο B1 </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 7ου βίντεο που υπάρχει στο Edpuzzle </ul></li>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 7](https://github.com/courses-ionio/help/discussions/1624) | Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
+| 8 | <ul><li> [x] <a href="#shell-scripts">Άσκηση γραμμής εντολών (Pipelining - Shell Scripts) </a></ul></li> <ul><li> [ ] Απάντηση στων ερωτήσεων του 8ου βίντεο που υπάρχει στο Edpuzzle </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 7](https://github.com/courses-ionio/help/discussions/1741) | Έχει γίνει το 50% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
 | 10 | Άσκηση γραμμής εντολών | | |
 | 11 | Κατασκευή του βιβλίου Β | | |
@@ -242,4 +242,20 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
  - [blueprint vs kismet forum](https://forums.unrealengine.com/t/blue-print-vs-kismet/52216/7)
  - [unreal engine image](https://www.pcmag.com/news/unreal-engine-5-promises-super-realistic-game-graphics)
 
+# <h1 id="shell-scripts">8ο ΠΑΡΑΔΟΤΕΟ - Άσκηση γραμμής εντολών (Pipelining - Shell Scripts) : </h1>
+Μέσα στο παραδοτέο αυτό, έφτιαξα ένα [`shell script`](https://github.com/nkanagno/paradoteo-8/blob/main/file-conversion.sh) το οποίο όταν εκτελείται αρχικά, εμφανίζει ένα `menu` δίνoντας στον χρήστη δύο επιλογές, είτε να μετατρέψει το βιβλίο που επέλεξα, με τίτλο [`The Legal Status of Video Games`](https://books.google.gr/books?id=8ZPuDwAAQBAJ&pg=PA28&dq=game+development&hl=el&sa=X&ved=2ahUKEwjw7tn4o8X7AhXwbvEDHQsKAd84HhDoAXoECAQQAg#v=onepage&q=game%20development&f=false) ή αλλίως το [`book.epub`](https://github.com/nkanagno/paradoteo-8/blob/main/book.epub) το οποίο το κύριο θέμα του αφορά τα βινεοπαιχνίδια, είτε την `αναφορά` μου αυτού του μάθηματος και ύστερα αφήνει τον χρήστη να διαλέξει σε τι είδους αρχείο θα το μετατρέψει (`.pdf`, `.tex`, `.html`, `.txt` και `.ipynb`).
+
+### Το `shell script` μου και το link του `asciinema` για εκτέλεσή του: 
+ - [`file-conversion.sh`](https://github.com/nkanagno/paradoteo-8/blob/main/file-conversion.sh)
+ - [`asciinema`](https://asciinema.org/a/539872)
  
+### Τo δωρεάν [`βιβλίο`](https://github.com/nkanagno/paradoteo-8/blob/main/book.epub) που βρήκα [`εδώ`](https://books.google.gr/books?id=8ZPuDwAAQBAJ&pg=PA28&dq=game+development&hl=el&sa=X&ved=2ahUKEwjw7tn4o8X7AhXwbvEDHQsKAd84HhDoAXoECAQQAg#v=onepage&q=game%20development&f=false), το shell script μου το μετατρέπει σε αρχείο:
+ - latex ή .tex : [`book.tex`](https://github.com/nkanagno/paradoteo-8/blob/main/book.tex)
+ - html : [`book.html`](https://github.com/nkanagno/paradoteo-8/blob/main/book.html)
+ - txt : [`book.txt`](https://github.com/nkanagno/paradoteo-8/blob/main/book.txt)
+ 
+### Την `αναφορά` μου το shell script την μετατρέπει σε αρχείο:
+ - pdf : [`myReport.pdf`](https://github.com/nkanagno/paradoteo-8/blob/main/myReport.pdf)
+ - html: [`myReport.html`](https://github.com/nkanagno/paradoteo-8/blob/main/myReport.html)
+ - ipynb: [`myReport.ipynb`](https://github.com/nkanagno/paradoteo-8/blob/main/myReport.ipynb)
+
