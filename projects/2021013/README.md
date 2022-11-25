@@ -259,3 +259,9 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
  - html: [`myReport.html`](https://github.com/nkanagno/paradoteo-8/blob/main/myReport.html)
  - ipynb: [`myReport.ipynb`](https://github.com/nkanagno/paradoteo-8/blob/main/myReport.ipynb)
 
+## Επιπροσθετο Script: `αυτοματος c++ compiler`
+Εφτιαξα επισης ενα ακομα shell script το οποιο ζηταει απο τον χρηστη το ονομα του c++ που θελει να δημιουργησει, το ανοιγει με vim ωστε να το επεξεργαστει ο χρηστης και υστερα το κανει compile και το εκτελει αυτοματα.
+#### Παραθετω τα παρακατω links:
+- [`asciinema`](https://asciinema.org/a/540154)
+- [`c++-Auto-Compiler.sh`](https://github.com/nkanagno/paradoteo-8/blob/main/c%2B%2B-Auto-Compiler.sh)
+- [`random_pass.cpp`](https://github.com/nkanagno/paradoteo-8/blob/main/random_pass.cpp)
