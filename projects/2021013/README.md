@@ -261,22 +261,23 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 
 ## Επιπρόσθετο Script: `αυτόματος c++ compiler`
 Έφτιαξα επίσης ένα ακόμα shell script το οποίο ζητάει από τον χρήστη το όνομα του c++ που θέλει να δημιουργήσει, το ανοίγει με vim ώστε να το επεξεργαστεί ο χρήστης και ύστερα το κάνει compile και το εκτελεί αυτόματα.
-#### Παραθετω τα παρακατω links:
+#### Παραθέτω τα παρακάτω links:
 - [`asciinema`](https://asciinema.org/a/540154)
 - [`c++-Auto-Compiler.sh`](https://github.com/nkanagno/paradoteo-8/blob/main/c%2B%2B-Auto-Compiler.sh)
 - [`random_pass.cpp`](https://github.com/nkanagno/paradoteo-8/blob/main/random_pass.cpp)
-### LINKS για την συμμετοχή στα [discussions](https://github.com/courses-ionio/help/discussions):
- #### [`show and tell`](https://github.com/courses-ionio/help/discussions/categories/show-and-tell):
- ##### Συμβουλες στους συμφοιτητές μου για την διώρθωση παραδοτέων: 
+
+## Links για την συμμετοχή μου στα [discussions](https://github.com/courses-ionio/help/discussions):
+ ### [Show and tell](https://github.com/courses-ionio/help/discussions/categories/show-and-tell):
+ #### Συμβουλές στους συμφοιτητές μου για την διώρθωση παραδοτέων: 
   - [#1658](https://github.com/courses-ionio/help/discussions/1658)
   - [#1749](https://github.com/courses-ionio/help/discussions/1749)
   - [#1746](https://github.com/courses-ionio/help/discussions/1746)
- ##### `Guide παραδοτέων`:
+ #### Guide παραδοτέου 6:
   - [#1597](https://github.com/courses-ionio/help/discussions/1597)
- #### [`Q&A`](https://github.com/courses-ionio/help/discussions/categories/q-a):
- ##### Ερωτήσεις που έδωσα προτεινόμενη απάντηση:
+ ### [Q&A](https://github.com/courses-ionio/help/discussions/categories/q-a):
+ #### Ερωτήσεις που έδωσα προτεινόμενη απάντηση:
   - [#1724](https://github.com/courses-ionio/help/discussions/1724)
- ##### Ερωτήσεις που έκανα εγώ:
+ #### Ερωτήσεις που έκανα εγώ:
   - [#1730](https://github.com/courses-ionio/help/discussions/1730)
   - [#1403](https://github.com/courses-ionio/help/discussions/1403)
   - [#1401](https://github.com/courses-ionio/help/discussions/1401)
