@@ -272,6 +272,7 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
   - [#1658](https://github.com/courses-ionio/help/discussions/1658)
   - [#1749](https://github.com/courses-ionio/help/discussions/1749)
   - [#1746](https://github.com/courses-ionio/help/discussions/1746)
+  - [#1770](https://github.com/courses-ionio/help/discussions/1770)
  #### Guide παραδοτέου 6:
   - [#1597](https://github.com/courses-ionio/help/discussions/1597)
  ### [Q&A](https://github.com/courses-ionio/help/discussions/categories/q-a):
