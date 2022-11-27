@@ -190,7 +190,8 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 | --- | --- | --- | 
 | [Github account](https://github.com/nkanagno) | [Eφαρμογές επίλυσης προβλημάτων ](https://github.com/nkanagno/site/blob/master/_slides/Problem-Solving-Apps.md) | [περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.)](https://github.com/nkanagno/site/blob/master/_timeline/narrow-artificial-intelligence.md) |
 | [netlify](https://nkanagno.netlify.app/) | [Eφαρμογές επίλυσης προβλημάτων](https://nkanagno.netlify.app/slides/problem-solving-apps/)| [περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.)](https://nkanagno.netlify.app/timeline/narrow-artificial-intelligence/) |
-
+### PULL REQUEST:
+Κανοντας πρωτα fork απο την ομαδα μου εκανα μετα Pull-request από το προσωπικό [`nkanagno/site`](https://github.com/nkanagno/site) προς στο [`OMADA12/site`](https://github.com/OMADA12/site) του organization της ομάδας μας:<a href="https://github.com/OMADA12/site/pull/2"> "add my slides and timeline categories"</a>
 # <h1 id="BOOK_A">6ο ΠΑΡΑΔΟΤΕΟ - Κατασκευη Βιβλιου Α: </h1>
 ## Η Συνοχή μου στο βιβλίο:
 Στο κεφάλαιο 5 (Μοντέλα), και για περισσότερη ακρίβεια στη σελίδα 163, αναφέρει ότι συγκεκριμένα βιντεοπαιχνίδια, την ψυχαγωγία στον παίκτη την πετυχαίνουν όχι μόνο με το να τον διευκολύνουν αλλά αρκετές φορές και να τον δυσκολέψουν. Μέσα από αυτό μικρό κειμενάκι αποφάσισα να αναφέρω ως fun fact την επιτυχία του dark souls. Πιο συγκεκριμένα, το dark souls είναι το τέλειο παράδειγμα σε αυτή την περίπτωση, χρωστώντας όλη του την επιτυχία στο υψηλό επίπεδο δυσκολίας του. Θεωρείται επίσης ως ένα από τα καλύτερα και πιο λατρεμένα βιντεοπαιχνίδια όλων τον εποχών ενώ ταυτοχρόνως θεωρείται και ένα από τα πιο δύσκολα βιντεοπαιχνίδια όλων το εποχών και αυτό το κάνει τόσο ενδιαφέρον και ψυχαγωγικό για τους χρήστες.
