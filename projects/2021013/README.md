@@ -53,7 +53,7 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 Μόλις ολοκληρώθηκε η εγκατάσταση, έκανα login, έκανα “pacman -Sy asciinema neofetch” και έφτιαξα το παρακάτω βίντεο κάνοντας “asciinema  rec”
 και δείχνει τα αποτελέσματα των εντολών: 
 
- -  `PS1=["2021013\w]#"`
+ -  `PS1=["2021013\w]# "`
  - `neofetch` 
  - `sudo journalctl -b`<br>
 ### <a href="https://asciinema.org/a/mpbE2As74UV6mMgLIyK7dem1t">`link gia to asciinema`</a> <br>
