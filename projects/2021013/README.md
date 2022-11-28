@@ -17,9 +17,9 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 | 5 | <ul><li> [x] <a href="#A2">Συμμετοχικό περιεχόμενο A2</a> </ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 5ου βίντεο που υπάρχει στο Edpuzzle </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 5](https://github.com/courses-ionio/help/discussions/1481) | Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
 | 6 |  <ul><li> [x] <a href="#BOOK_A">Κατασκευή του βιβλίου Α </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 6ου βίντεο που υπάρχει στο Edpuzzle </ul></li>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 6](https://github.com/courses-ionio/help/discussions/1587) | Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
 | 7 | <ul><li> [x] <a href="#B1">Συμμετοχικό περιεχόμενο B1 </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 7ου βίντεο που υπάρχει στο Edpuzzle </ul></li>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 7](https://github.com/courses-ionio/help/discussions/1624) | Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
-| 8 | <ul><li> [x] <a href="#shell-scripts">Άσκηση γραμμής εντολών (Pipelining - Shell Scripts) </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 8ου βίντεο που υπάρχει στο Edpuzzle </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 8](https://github.com/courses-ionio/help/discussions/1741) | Έχει γίνει το 50% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
+| 8 | <ul><li> [x] <a href="#shell-scripts">Άσκηση γραμμής εντολών (Shell Scripts) </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 8ου βίντεο που υπάρχει στο Edpuzzle </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 8](https://github.com/courses-ionio/help/discussions/1741) | Έχει γίνει το 50% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
-| 10 | Άσκηση γραμμής εντολών | | |
+| 10 |  <ul><li> [x] <a href="#pipelining">Άσκηση γραμμής εντολών 2 (pipelining + Shell Scripts) </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 8ου βίντεο που υπάρχει στο Edpuzzle </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 8](https://github.com/courses-ionio/help/discussions/1741) |  | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -56,6 +56,7 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
  -  `PS1=["2021013\w]# "`
  - `neofetch` 
  - `sudo journalctl -b`<br>
+<p id="asciinema_problem"></p>
 Στο συγκεκριμενο link εχω το asciinema οταν το ειχα τρεξει χωρις graphical interface:
 ### <a href="https://asciinema.org/a/mpbE2As74UV6mMgLIyK7dem1t">`link για το αasciinema`χωρις graphical</a> <br>
 απλως επειδη δε φαινεται καλα το ξανατραβηξα με graphical interface:
@@ -142,12 +143,13 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 Έχοντας καταφέρει να εγκαταστήσω από το <a href="#arch_linux_installation">2ο Παραδοτέο</a> το λειτουργικό σύστημα arch linux σε usb δηλαδή σε hardware μορφή, 
 είχα ήδη μία ιδέα για το πως να το χειριστώ. Έτσι εκτέλεσα μερικές warm up εντολές όπου η κάθε μία πραγματοποιεί διαφορετική λειτουργία μέσα στο σύστημα. Την κάθε εντολή την κατέγραψα σε μορφή βίντεο μέσω της εφαρμογής `asciinema` με τα εξής links:  
 1. Δείχνω τον καιρό της κέρκυρας και της ισπανίας: <a href="https://asciinema.org/a/541039">`wttr`</a>             <br>
-2. Παρουσιάζω μερικές δυνατότητες του org mode του Emacs: <a href="https://asciinema.org/a/533590">`Emacs org mode`</a>   <br>
-3. Εμφάνισα την τρέχον χρονική στιγμή γράφοντας και ένα μύνημα: <a href="https://asciinema.org/a/533466">`jrnl` </a>            <br>
-4. Εξηγώ πως να εγκαταστήσει και να παίξει κάποιος ένα αρχείο mp3 από το youtube: <a href="https://asciinema.org/a/Vz8USGFzxo7hR5DNa64ol4tHf">`youtube-idl`</a> <br>
-5. Διαβάζω τα νέα με ένα αρχείο `RSS`: <a href="https://asciinema.org/a/533527">`newsboat`</a>            <br>
+2. Παρουσιάζω μερικές δυνατότητες του org mode του Emacs: <a href="https://asciinema.org/a/541047">`Emacs org mode`</a>   <br>
+3. Εμφάνισα την τρέχον χρονική στιγμή γράφοντας και ένα μύνημα: <a href="https://asciinema.org/a/541048">`jrnl` </a>
+> Παλιο asciinema (εξηγω το προβλημα <a href="#asciinema_problem">εδω</a>): <a href="https://asciinema.org/a/533466">`jrnl` </a>            <br>
+4. Εξηγώ πως να εγκαταστήσει και να παίξει κάποιος ένα αρχείο mp3 από το youtube: <a href="https://asciinema.org/a/541051">`youtube-idl`</a> <br>
+5. Διαβάζω τα νέα με ένα αρχείο `RSS`: <a href="https://asciinema.org/a/541052">`newsboat`</a>            <br>
 ## Εxtra Εντολές:
- 1.  Παρουσιάζω το cheat.sh στο οποίο μπορείς να αποφασίσεις ποια εντολή του arch llinux να σου εξηγήσει ή να σου δώσει παραδείγματα από αυτήν. Για παράδειγμα, εγώ του ζητάω να μου εξηγήσει εδώ την εντολή `ls` : [cheat.sh](https://asciinema.org/a/537543)
+ 1.  Παρουσιάζω το cheat.sh στο οποίο μπορείς να αποφασίσεις ποια εντολή του arch llinux να σου εξηγήσει ή να σου δώσει παραδείγματα από αυτήν. Για παράδειγμα, εγώ του ζητάω να μου εξηγήσει εδώ την εντολή `ls` : [cheat.sh](https://asciinema.org/a/541064https://asciinema.org/a/541064)
 # <h1 id="A2">5ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο A2: </h1>
 Στο συγκεκριμένο παραδοτέο είχα αρχικά, φτιάξει ως κατηγοριες στα slides για το πρώτο .md μου, δηλαδή για το `Nintendo Gamecube`, το 
 << Προιόντα εταιρειών >> και για το δεύτερο .md, δηλαδή για το `tetris`, πρόσθεσα το << Eφαρμογές επίλυσης προβλημάτων >>. Στη συνεχεια ως κατηγοριες στα timelines για το πρώτο .md μου, δηλαδή για το `Nintendo Gamecube`, το 
@@ -245,14 +247,14 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
  - [blueprint vs kismet forum](https://forums.unrealengine.com/t/blue-print-vs-kismet/52216/7)
  - [unreal engine image](https://www.pcmag.com/news/unreal-engine-5-promises-super-realistic-game-graphics)
 
-# <h1 id="shell-scripts">8ο ΠΑΡΑΔΟΤΕΟ - Άσκηση γραμμής εντολών (Pipelining - Shell Scripts) : </h1>
-Μέσα στο παραδοτέο αυτό, έφτιαξα ένα [`shell script`](https://github.com/nkanagno/paradoteo-8/blob/main/file-conversion.sh) το οποίο όταν εκτελείται αρχικά, εμφανίζει ένα `menu` δίνoντας στον χρήστη δύο επιλογές, είτε να μετατρέψει το βιβλίο που επέλεξα, με τίτλο [`The Legal Status of Video Games`](https://books.google.gr/books?id=8ZPuDwAAQBAJ&pg=PA28&dq=game+development&hl=el&sa=X&ved=2ahUKEwjw7tn4o8X7AhXwbvEDHQsKAd84HhDoAXoECAQQAg#v=onepage&q=game%20development&f=false) ή αλλίως το [`book.epub`](https://github.com/nkanagno/paradoteo-8/blob/main/book.epub) το οποίο το κύριο θέμα του αφορά τα βινεοπαιχνίδια, είτε την `αναφορά` μου αυτού του μάθηματος και ύστερα αφήνει τον χρήστη να διαλέξει σε τι είδους αρχείο θα το μετατρέψει (`.pdf`, `.tex`, `.html`, `.txt` και `.ipynb`).
+# <h1 id="shell-scripts">8ο ΠΑΡΑΔΟΤΕΟ - Άσκηση γραμμής εντολών (Shell Scripts) : </h1>
+Μέσα στο παραδοτέο αυτό, έφτιαξα ένα [`shell script`](https://github.com/nkanagno/paradoteo-8/blob/main/file-conversion.sh) το οποίο όταν εκτελείται αρχικά, εμφανίζει ένα `menu` δίνoντας στον χρήστη δύο επιλογές, είτε να μετατρέψει το βιβλίο που επέλεξα, με τίτλο [`Game Programming`](https://www.e-booksdirectory.com/details.php?ebook=10159) ή αλλίως το [`book.epub`](https://github.com/nkanagno/paradoteo-8/blob/main/book.epub) το οποίο το κύριο θέμα του αφορά τα βινεοπαιχνίδια, είτε την `αναφορά` μου αυτού του μάθηματος και ύστερα αφήνει τον χρήστη να διαλέξει σε τι είδους αρχείο θα το μετατρέψει (`.pdf`, `.tex`, `.html`, `.txt` και `.ipynb`).
 
 ### Το `shell script` μου και το link του `asciinema` για εκτέλεσή του: 
  - [`file-conversion.sh`](https://github.com/nkanagno/paradoteo-8/blob/main/file-conversion.sh)
- - [`asciinema`](https://asciinema.org/a/539872)
+ - [`asciinema`](https://asciinema.org/a/QzO5tvxK03W3687YypWWjtsQ5)
  
-### Τo δωρεάν [`βιβλίο`](https://github.com/nkanagno/paradoteo-8/blob/main/book.epub) που βρήκα [`εδώ`](https://books.google.gr/books?id=8ZPuDwAAQBAJ&pg=PA28&dq=game+development&hl=el&sa=X&ved=2ahUKEwjw7tn4o8X7AhXwbvEDHQsKAd84HhDoAXoECAQQAg#v=onepage&q=game%20development&f=false), το shell script μου το μετατρέπει σε αρχείο:
+### Τo δωρεάν [`βιβλίο`](https://github.com/nkanagno/paradoteo-8/blob/main/book.epub) που βρήκα [`εδώ`](https://www.e-booksdirectory.com/details.php?ebook=10159), το shell script μου το μετατρέπει σε αρχείο:
  - latex ή .tex : [`book.tex`](https://github.com/nkanagno/paradoteo-8/blob/main/book.tex)
  - html : [`book.html`](https://github.com/nkanagno/paradoteo-8/blob/main/book.html)
  - txt : [`book.txt`](https://github.com/nkanagno/paradoteo-8/blob/main/book.txt)
@@ -262,7 +264,8 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
  - html: [`myReport.html`](https://github.com/nkanagno/paradoteo-8/blob/main/myReport.html)
  - ipynb: [`myReport.ipynb`](https://github.com/nkanagno/paradoteo-8/blob/main/myReport.ipynb)
 
-## Επιπρόσθετο Script: `αυτόματος c++ compiler`
+# <h1 id="pipelining">10ο ΠΑΡΑΔΟΤΕΟ - Άσκηση γραμμής εντολών 2 (pipelining + Shell Scripts): </h1>
+## Script με pipelining: `αυτόματος c++ compiler`
 Έφτιαξα επίσης ένα ακόμα shell script το οποίο ζητάει από τον χρήστη το όνομα του c++ που θέλει να δημιουργήσει, το ανοίγει με vim ώστε να το επεξεργαστεί ο χρήστης και ύστερα το κάνει compile και το εκτελεί αυτόματα.
 #### Παραθέτω τα παρακάτω links:
 - [`asciinema`](https://asciinema.org/a/540154)
