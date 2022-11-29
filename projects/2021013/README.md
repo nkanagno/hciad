@@ -264,13 +264,13 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
  - html: [`myReport.html`](https://github.com/nkanagno/paradoteo-8/blob/main/myReport.html)
  - ipynb: [`myReport.ipynb`](https://github.com/nkanagno/paradoteo-8/blob/main/myReport.ipynb)
 
-# <h1 id="pipelining">10ο ΠΑΡΑΔΟΤΕΟ - Άσκηση γραμμής εντολών 2 (pipelining + Shell Scripts): </h1>
+# <h1 id="pipelining">10ο ΠΑΡΑΔΟΤΕΟ - Άσκηση γραμμής εντολών 2 (pipelining + Shell Script): </h1>
 ## Script με pipelining: `αυτόματος c++ compiler`
 Έφτιαξα επίσης ένα ακόμα shell script το οποίο ζητάει από τον χρήστη το όνομα του c++ που θέλει να δημιουργήσει, το ανοίγει με vim ώστε να το επεξεργαστεί ο χρήστης και ύστερα το κάνει compile και το εκτελεί αυτόματα.
 #### Παραθέτω τα παρακάτω links:
-- [`asciinema`](https://asciinema.org/a/540154)
-- [`c++-Auto-Compiler.sh`](https://github.com/nkanagno/paradoteo-8/blob/main/c%2B%2B-Auto-Compiler.sh)
-- [`random_pass.cpp`](https://github.com/nkanagno/paradoteo-8/blob/main/random_pass.cpp)
+- [`asciinema`](https://asciinema.org/a/541362)
+- [`c++-Auto-Compiler.sh`](https://github.com/nkanagno/paradoteo-10/blob/main/c%2B%2B-Auto-Compiler.sh)
+- [`random_pass.cpp`](https://github.com/nkanagno/paradoteo-10/blob/main/random_pass.cpp)
 
 ## Links για την συμμετοχή μου στα [discussions](https://github.com/courses-ionio/help/discussions):
  ### [Show and tell](https://github.com/courses-ionio/help/discussions/categories/show-and-tell):
