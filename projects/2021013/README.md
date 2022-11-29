@@ -56,12 +56,9 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
  -  `PS1=["2021013\w]# "`
  - `neofetch` 
  - `sudo journalctl -b`<br>
-<p id="asciinema_problem"></p>
-Στο συγκεκριμενο link εχω το asciinema οταν το ειχα τρεξει χωρις graphical interface:
 
-### <a href="https://asciinema.org/a/mpbE2As74UV6mMgLIyK7dem1t">`link για το asciinema`χωρις graphical</a> <br>
-απλως επειδη δε φαινεται καλα το ξανατραβηξα με graphical interface:
-### <a href="https://asciinema.org/a/541036">`link για το asciinema`με graphical</a> <br>
+### <a href="https://asciinema.org/a/mpbE2As74UV6mMgLIyK7dem1t">`link για το asciinema`</a> <br>
+
 
 # <h1 id="A1">3ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο A1:</h1><br> 
 Αρχικά, ως απλό μέλος της <a href="https://github.com/OMADA12">ομάδας μου</a> ασχολήθηκα με δύο διαφορετικά θέματα τα οποία το ένα ήταν το <a href="https://en.wikipedia.org/wiki/GameCube">nintendo-gamecube</a> και το δεύτερο ήταν το <a href="https://en.wikipedia.org/wiki/Tetris">Tetris</a>. Ωστόσο όμως σύμφωνα με ορισμένα σχόλια που πραγματοποιήθηκαν κατα την διάρκεια του μαθήματος αποφάσισα και έβαλα δύο ακόμη καινούργια θέματα, όπως την μηχανή επεξεργασίας γραφικών και animation, το [`Blender`](https://el.wikipedia.org/wiki/Blender) και την μηχανή ανάπτυξης παιχνιδιών, την [`Unreal Engine 3`](https://en.wikipedia.org/wiki/Unreal_Engine#Unreal_Engine_3). Ο λόγος που επέλεξα αυτά τα δύο θέματα μαζί είναι γιατί όπως αναφέρω και στην <a href="#introduction">Εισαγωγή </a> μου μόλις τελειώσω το πανεπιστήμιο και πάρω το πτυχίο μου, σκέφτομαι πολύ σοβαρά να ασχοληθώ με το game-development καθώς επίσης ταυτόχρονα η μία μηχανή αλληλοσυμπληρώνει την άλλη. Πιο συγκεκριμένα, ως γνωστόν στη σύγχρονη εποχή για να προγραμματίσει ένας game developer ένα βιντεοπαιχνίδι με τρισδιάστατο περιβάλλον τότε θα του είναι αναγκαία μία μηχανή ανάπτυξης παιχνιδιών όπως η `Unreal Engine 3`. Από την άλλη μεριά αν θέλει ο developer να προσθέσει και animationς με πολύ καλά γραφικά θα χρειαστεί οπωςδήποτε μία εφαρμογή όπως το `blender` καθώς η Unreal Engine από μόνη της δεν υποστηρίζει την ανάπτυξη `animations`. 
@@ -146,8 +143,7 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 είχα ήδη μία ιδέα για το πως να το χειριστώ. Έτσι εκτέλεσα μερικές warm up εντολές όπου η κάθε μία πραγματοποιεί διαφορετική λειτουργία μέσα στο σύστημα. Την κάθε εντολή την κατέγραψα σε μορφή βίντεο μέσω της εφαρμογής `asciinema` με τα εξής links:  
 1. Δείχνω τον καιρό της κέρκυρας και της ισπανίας: <a href="https://asciinema.org/a/541039">`wttr`</a>             <br>
 2. Παρουσιάζω μερικές δυνατότητες του org mode του Emacs: <a href="https://asciinema.org/a/541047">`Emacs org mode`</a>   <br>
-3. Εμφάνισα την τρέχον χρονική στιγμή γράφοντας και ένα μύνημα: <a href="https://asciinema.org/a/541048">`jrnl` </a>
-> Παλιο asciinema (εξηγω το προβλημα <a href="#asciinema_problem">εδω</a>): <a href="https://asciinema.org/a/533466">`jrnl` </a>            <br>
+3. Εμφάνισα την τρέχον χρονική στιγμή γράφοντας και ένα μύνημα: <a href="https://asciinema.org/a/533466">`jrnl` </a>            <br>
 4. Εξηγώ πως να εγκαταστήσει και να παίξει κάποιος ένα αρχείο mp3 από το youtube: <a href="https://asciinema.org/a/541051">`youtube-idl`</a> <br>
 5. Διαβάζω τα νέα με ένα αρχείο `RSS`: <a href="https://asciinema.org/a/541052">`newsboat`</a>            <br>
 ## Εxtra Εντολές:
