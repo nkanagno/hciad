@@ -285,6 +285,8 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
   - [#1239](https://github.com/courses-ionio/help/discussions/1239)
  #### Guide παραδοτέου 6:
   - [#1597](https://github.com/courses-ionio/help/discussions/1597)
+ #### Αναφορά για την λύση του προβλήματος των `μικρών γραμμάτων` που αφορά το asciinema:
+  - [#1799](https://github.com/courses-ionio/help/discussions/1799)
  ### [Q&A](https://github.com/courses-ionio/help/discussions/categories/q-a):
  #### Ερωτήσεις που έδωσα προτεινόμενη απάντηση:
   - [#1724](https://github.com/courses-ionio/help/discussions/1724)
