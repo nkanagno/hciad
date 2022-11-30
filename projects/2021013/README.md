@@ -292,7 +292,7 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 # <h1 id="pipelining">10ο ΠΑΡΑΔΟΤΕΟ - Άσκηση γραμμής εντολών 2 (pipelining + Shell Script): </h1>
 ## Script με pipelining: `αυτόματος c++ compiler`
 Για αυτό το παραδοτέο έφτιαξα ένα ακόμα shell script το οποίο ζητάει αρχικά από τον χρήστη το όνομα του `C++` ή `C` αρχείου που θέλει να δημιουργήσει, ελέγχει αν υπάρχει ήδη αυτό το αρχείο και το διαφράφει φτιάχνοντας ξανά καινούργιο ώστε να είναι άδειο και το ανοίγει με vim ώστε να το επεξεργαστεί ο χρήστης. Αφού γράψει το περιεχόμενό του ο χρήστης τότε φτιάχνει ένα άδειο αρχείο txt το οποίο μέσα σε αυτό θα περιέχει το αποτέλεσμα του compiler και αυτό πραγματοποιήθηκε μέσω της χρήσης pipelining. Τέλος ανοίγει το αρχείο txt, δείχνοντας με αυτόν τον τρόπο στον χρήστη το αποτέλεσμα του `C++` ή `C` προγράμματός του.
-#### Παραθέτω τα παρακάτω links:
+### Παραθέτω τα παρακάτω links:(script, asciinema,c++ αρχείο)
 - [`asciinema`](https://asciinema.org/a/541362)
 - [`c++-Auto-Compiler.sh`](https://github.com/nkanagno/paradoteo-10/blob/main/c%2B%2B-Auto-Compiler.sh)
 - [`random_pass.cpp`](https://github.com/nkanagno/paradoteo-10/blob/main/random_pass.cpp)
