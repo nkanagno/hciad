@@ -18,8 +18,8 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 | 6 |  <ul><li> [x] <a href="#BOOK_A">Κατασκευή του βιβλίου Α </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 6ου βίντεο που υπάρχει στο Edpuzzle </ul></li>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 6](https://github.com/courses-ionio/help/discussions/1587) | Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
 | 7 | <ul><li> [x] <a href="#B1">Συμμετοχικό περιεχόμενο B1 </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 7ου βίντεο που υπάρχει στο Edpuzzle </ul></li>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 7](https://github.com/courses-ionio/help/discussions/1624) | Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
 | 8 | <ul><li> [x] <a href="#shell-scripts">Άσκηση γραμμής εντολών (Shell Scripts) </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 8ου βίντεο που υπάρχει στο Edpuzzle </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 8](https://github.com/courses-ionio/help/discussions/1741) | Έχει γίνει το 50% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
-| 9 | Συμμετοχικό περιεχόμενο B2 | | |
-| 10 |  <ul><li> [x] <a href="#pipelining">Άσκηση γραμμής εντολών 2 (pipelining + Shell Scripts) </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 8ου βίντεο που υπάρχει στο Edpuzzle </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 8](https://github.com/courses-ionio/help/discussions/1741) |  | |
+| 9 | <ul><li> [x] <a href="#B2">Συμμετοχικό περιεχόμενο B1 </a></ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 9](https://github.com/courses-ionio/help/discussions/1741) | |
+| 10 |  <ul><li> [x] <a href="#pipelining">Άσκηση γραμμής εντολών 2 (pipelining + Shell Scripts) </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 8ου βίντεο που υπάρχει στο Edpuzzle </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 10](https://github.com/courses-ionio/help/discussions/1741) |  | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
@@ -264,6 +264,27 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
  - html: [`myReport.html`](https://github.com/nkanagno/paradoteo-8/blob/main/myReport.html)
  - ipynb: [`myReport.ipynb`](https://github.com/nkanagno/paradoteo-8/blob/main/myReport.ipynb)
 
+# <h1 id="B2">9ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο B1: </h1>
+Στο συγκεκριμένο παραδοτέο ασχολήθηκα με την βιογραφία του εφευρέτη της μηχανής ανάπτυξης βιντεοπαιχνιδιών [Unreal Engine](https://en.wikipedia.org/wiki/Unreal_Engine), τον ιδρυτή της [Epic Games](https://el.wikipedia.org/wiki/Epic_Games), τον δημιουργό του [fortnite](https://el.wikipedia.org/wiki/Fortnite) ή αλλιώς τον `Tim Sweeney`.
+Ο κύριος Eπέλεξα αυτό το θέμα δίοτι ήθελα να μάθω περισσότερες πληροφορίες για τον άνθρωπο που έκανε επανάσταση στη βιομηχανία των βιντεοπαιχνιδιών φτιάχνοντας την πιο εντυπωσιακή μηχανή ανάπτυξης τρισδιάστατων βιντεοπαιχνιδιών και γραφικών που χρησιμοποιείτε ακόμη και σήμερα από τις πιο υψηλές εταιρίες βιντεοπαιχνιδιών στον κοσμό. Επίσης θα ήταν σημαντικό να μην παραλλείψω πως ένας άλλος λόγος που αποφάσισα να ψάξω για την ιστορία του Tim Sweeney ήταν επειδή είναι ο ιδρυτής της μιας από τις πιο δημοφιλές και επιτυχημένες εταιρίες βιντεοπαιχνιδιών της σύγχρονης εποχής.
+
+## Παραθέτω παρακάτω τα `links` για την `μελέτη περίπτωσης` μου (`github`, `netlify`):
+- biography στο netlify: [`Tim Sweeney`](https://nkanagno.netlify.app//biography/tim-sweeney/)
+- Στον φάκελο `_includes` στο github: [`bio-sweeney.md`](https://github.com/nkanagno/site/blob/master/_includes/bio-sweeney.md)
+- Στον φάκελο `_biography` στο github: [`tim-sweeney.md`](https://github.com/nkanagno/site/blob/master/_biography/tim-sweeney.md)
+
+## Λίγα λόγια για τη βιογραφία που επέλεξα: [`tim-sweeney.md`](https://github.com/nkanagno/site/blob/master/_biography/tim-sweeney.md)
+![sweeney-profile-thumb](https://user-images.githubusercontent.com/103074273/204682062-e207317c-c292-4628-958d-85297222ff64.jpg) <br>
+Ο Tim Sweeney κατασκεύασε ένα από τα πρώτα και, αυτή τη στιγμή, πιο διάσημα διαδραστικά συστήματα ανάπτυξης βιντεοπαιχνιδιών, δίνοντας έτσι την ευκαιρία στον χρήστη να δημιουργήσει τα δικά του βιντεοπαιχνίδια, τα οποία παίρνουν μέρος σε τρισδιάστατα περιβάλλοντα και έχουν πολύ ρεαλιστικά γραφικά.
+
+## Links από την `βιβλιογραφία` που χρησιμοποίησα για να βρω πληροφορίες για το θέμα που επέλεξα:
+ -
+ - [The Story of Epic Games: How a Game Engine Conquered The Video Game Industry](https://www.youtube.com/watch?v=6THelT7L8KU)
+ - [Unreal Engine Wikipedia](https://en.wikipedia.org/wiki/Unreal_Engine)
+ - [Epic Games wikipedia](https://el.wikipedia.org/wiki/Epic_Games)
+
+
+ 
 # <h1 id="pipelining">10ο ΠΑΡΑΔΟΤΕΟ - Άσκηση γραμμής εντολών 2 (pipelining + Shell Script): </h1>
 ## Script με pipelining: `αυτόματος c++ compiler`
 Έφτιαξα επίσης ένα ακόμα shell script το οποίο ζητάει από τον χρήστη το όνομα του c++ που θέλει να δημιουργήσει, το ανοίγει με vim ώστε να το επεξεργαστεί ο χρήστης και ύστερα το κάνει compile και το εκτελεί αυτόματα.
