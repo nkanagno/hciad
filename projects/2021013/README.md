@@ -194,7 +194,7 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 | [Github account](https://github.com/nkanagno) | [Eφαρμογές επίλυσης προβλημάτων ](https://github.com/nkanagno/site/blob/master/_slides/Problem-Solving-Apps.md) | [περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.)](https://github.com/nkanagno/site/blob/master/_timeline/narrow-artificial-intelligence.md) |
 | [netlify](https://nkanagno.netlify.app/) | [Eφαρμογές επίλυσης προβλημάτων](https://nkanagno.netlify.app/slides/problem-solving-apps/)| [περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.)](https://nkanagno.netlify.app/timeline/narrow-artificial-intelligence/) |
 ### PULL REQUEST:
-Κανοντας πρωτα fork απο την ομαδα μου εκανα μετα Pull-request από το προσωπικό [`nkanagno/site`](https://github.com/nkanagno/site) προς στο [`OMADA12/site`](https://github.com/OMADA12/site) του organization της ομάδας μας:<a href="https://github.com/OMADA12/site/pull/2"> "add my slides and timeline categories"</a>
+Κάνοντας πρώτα sync fork απο την ομάδα μου έκανα μετά Pull-request από το προσωπικό [`nkanagno/site`](https://github.com/nkanagno/site) προς στο [`OMADA12/site`](https://github.com/OMADA12/site) του organization της ομάδας μας:<a href="https://github.com/OMADA12/site/pull/2"> "add my slides and timeline categories"</a>
 
 # <h1 id="BOOK_A">6ο ΠΑΡΑΔΟΤΕΟ - Κατασκευη Βιβλιου Α: </h1>
 ## Η Συνοχή μου στο βιβλίο:
@@ -236,6 +236,9 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 ![unreal-engine-thumb](https://user-images.githubusercontent.com/103074273/202076737-8e54a818-ae89-4359-94ff-9564a6b23303.jpg)<br>
 Η Unreal Engine είναι μια μηχανή δημιουργίας βίντεοπαιχνιδιών που περιέχουν τρισδιάστατα γραφικά και περιβάλλοντα και αναπτύχθηκε από την Epic Games για πρώτη φορά το 1995. Δημιουργήθηκε κυριώς προκειμένα να υιοθετήθει από άλλες εταιρίες αυτής της βιομηχανίας. Γραμμένη ολόκληρη σε C++, διαθέτει υψηλό βαθμό φορητότητας , υποστηρίζοντας ένα ευρύ φάσμα πλατφορμών επιτραπέζιων υπολογιστών, κινητών, κονσόλων και εικονικής πραγματικότητας.
 
+ ### PULL REQUEST:
+Κάνοντας πρώτα sync fork απο την ομάδα μου έκανα μετά Pull-request από το προσωπικό [`nkanagno/site`](https://github.com/nkanagno/site) προς στο [`OMADA12/site`](https://github.com/OMADA12/site) του organization της ομάδας μας:<a href="https://github.com/OMADA12/site/pull/3"> "add case study"</a>
+ 
 ## Links από την `βιβλιογραφία` που χρησιμοποίησα για να βρω πληροφορίες για το θέμα που επέλεξα:
  - [The Story of Epic Games: How a Game Engine Conquered The Video Game Industry](https://www.youtube.com/watch?v=6THelT7L8KU)
  - [Unreal Engine Wikipedia](https://en.wikipedia.org/wiki/Unreal_Engine)
@@ -277,6 +280,8 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 ![sweeney-profile-thumb](https://user-images.githubusercontent.com/103074273/204682062-e207317c-c292-4628-958d-85297222ff64.jpg) <br>
 Ο Tim Sweeney κατασκεύασε ένα από τα πρώτα και, αυτή τη στιγμή, πιο διάσημα διαδραστικά συστήματα ανάπτυξης βιντεοπαιχνιδιών, δίνοντας έτσι την ευκαιρία στον χρήστη να δημιουργήσει τα δικά του βιντεοπαιχνίδια, τα οποία παίρνουν μέρος σε τρισδιάστατα περιβάλλοντα και έχουν πολύ ρεαλιστικά γραφικά.
 
+### PULL REQUEST:
+Κάνοντας πρώτα sync fork απο την ομάδα μου έκανα μετά Pull-request από το προσωπικό [`nkanagno/site`](https://github.com/nkanagno/site) προς στο [`OMADA12/site`](https://github.com/OMADA12/site) του organization της ομάδας μας:<a href="https://github.com/OMADA12/site/pull/8"> "add biography"</a>
 ## Links από την `βιβλιογραφία` που χρησιμοποίησα για να βρω πληροφορίες για το θέμα που επέλεξα:
  -
  - [The Story of Epic Games: How a Game Engine Conquered The Video Game Industry](https://www.youtube.com/watch?v=6THelT7L8KU)
