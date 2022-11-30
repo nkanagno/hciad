@@ -296,7 +296,9 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 - [`asciinema`](https://asciinema.org/a/541362)
 - [`c++-Auto-Compiler.sh`](https://github.com/nkanagno/paradoteo-10/blob/main/c%2B%2B-Auto-Compiler.sh)
 - [`random_pass.cpp`](https://github.com/nkanagno/paradoteo-10/blob/main/random_pass.cpp)
-
+ 
+# Τελικό Pull request: [link](https://github.com/OMADA12/site/pull/9)
+## Το οποίο επιβεβαιώνει ότι έχω διαβάσει και έχω ακολουθήσει πλήρως τις [οδηγίες συνεισφοράς και τους κανόνες της ομάδας μουͺͺ](https://github.com/OMADA12/site/blob/master/.github/CONTRIBUTING.md)  
  
 ## Links για την συμμετοχή μου στα [discussions](https://github.com/courses-ionio/help/discussions):
  ### [Show and tell](https://github.com/courses-ionio/help/discussions/categories/show-and-tell):
