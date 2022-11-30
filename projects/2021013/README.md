@@ -18,7 +18,7 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 | 6 |  <ul><li> [x] <a href="#BOOK_A">Κατασκευή του βιβλίου Α </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 6ου βίντεο που υπάρχει στο Edpuzzle </ul></li>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 6](https://github.com/courses-ionio/help/discussions/1587) | Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
 | 7 | <ul><li> [x] <a href="#B1">Συμμετοχικό περιεχόμενο B1 </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 7ου βίντεο που υπάρχει στο Edpuzzle </ul></li>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 7](https://github.com/courses-ionio/help/discussions/1624) | Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
 | 8 | <ul><li> [x] <a href="#shell-scripts">Άσκηση γραμμής εντολών (Shell Scripts) </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 8ου βίντεο που υπάρχει στο Edpuzzle </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 8](https://github.com/courses-ionio/help/discussions/1741) | Έχει γίνει το 50% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
-| 9 | <ul><li> [x] <a href="#B2">Συμμετοχικό περιεχόμενο B1 </a></ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 9](https://github.com/courses-ionio/help/discussions/1741) | |
+| 9 | <ul><li> [x] <a href="#B2">Συμμετοχικό περιεχόμενο B1 </a></ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 9](https://github.com/courses-ionio/help/discussions/1802) | |
 | 10 |  <ul><li> [x] <a href="#pipelining">Άσκηση γραμμής εντολών 2 (pipelining + Shell Scripts) </a></ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 8ου βίντεο που υπάρχει στο Edpuzzle </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 10](https://github.com/courses-ionio/help/discussions/1741) |  | |
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
@@ -271,7 +271,7 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 Στο συγκεκριμένο παραδοτέο ασχολήθηκα με την βιογραφία του εφευρέτη της μηχανής ανάπτυξης βιντεοπαιχνιδιών [Unreal Engine](https://en.wikipedia.org/wiki/Unreal_Engine), τον ιδρυτή της [Epic Games](https://el.wikipedia.org/wiki/Epic_Games), τον δημιουργό του [fortnite](https://el.wikipedia.org/wiki/Fortnite) ή αλλιώς τον `Tim Sweeney`.
 Ο κύριος Eπέλεξα αυτό το θέμα δίοτι ήθελα να μάθω περισσότερες πληροφορίες για τον άνθρωπο που έκανε επανάσταση στη βιομηχανία των βιντεοπαιχνιδιών φτιάχνοντας την πιο εντυπωσιακή μηχανή ανάπτυξης τρισδιάστατων βιντεοπαιχνιδιών και γραφικών που χρησιμοποιείτε ακόμη και σήμερα από τις πιο υψηλές εταιρίες βιντεοπαιχνιδιών στον κοσμό. Επίσης θα ήταν σημαντικό να μην παραλλείψω πως ένας άλλος λόγος που αποφάσισα να ψάξω για την ιστορία του Tim Sweeney ήταν επειδή είναι ο ιδρυτής της μιας από τις πιο δημοφιλές και επιτυχημένες εταιρίες βιντεοπαιχνιδιών της σύγχρονης εποχής.
 
-## Παραθέτω παρακάτω τα `links` για την `μελέτη περίπτωσης` μου (`github`, `netlify`):
+## Παραθέτω παρακάτω τα `links` για την `Βιογραφία` μου (`github`, `netlify`):
 - biography στο netlify: [`Tim Sweeney`](https://nkanagno.netlify.app//biography/tim-sweeney/)
 - Στον φάκελο `_includes` στο github: [`bio-sweeney.md`](https://github.com/nkanagno/site/blob/master/_includes/bio-sweeney.md)
 - Στον φάκελο `_biography` στο github: [`tim-sweeney.md`](https://github.com/nkanagno/site/blob/master/_biography/tim-sweeney.md)
@@ -287,7 +287,6 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
  - [The Story of Epic Games: How a Game Engine Conquered The Video Game Industry](https://www.youtube.com/watch?v=6THelT7L8KU)
  - [Unreal Engine Wikipedia](https://en.wikipedia.org/wiki/Unreal_Engine)
  - [Epic Games wikipedia](https://el.wikipedia.org/wiki/Epic_Games)
-
 
  
 # <h1 id="pipelining">10ο ΠΑΡΑΔΟΤΕΟ - Άσκηση γραμμής εντολών 2 (pipelining + Shell Script): </h1>
