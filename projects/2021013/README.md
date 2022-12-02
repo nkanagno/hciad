@@ -209,9 +209,10 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
  - [link του `md` αρχειου μου](https://github.com/nkanagno/kallipos/blob/master/MyContribution/dark_souls_fun_fact.md)
  - [link του `make-latex.sh`](https://github.com/nkanagno/kallipos/blob/master/make-latex.sh)
  - [link του `book.tex` ](https://github.com/nkanagno/kallipos/blob/master/TEX/book.tex)
- - [link του `το screenshot μου`](https://github.com/nkanagno/kallipos/blob/master/My_pics/my_contribution.png) 
+ - [link του `το screenshot μου`](https://github.com/nkanagno/kallipos/blob/master/My_pics/Screenshots%20%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%206/my_contribution.png) 
 ### Το screenshot που παραθέτω για το περιεχόμενό μου είναι το παρακάτω:
-![my_contribution](https://user-images.githubusercontent.com/103074273/202919471-d6fa49ea-a244-4c92-9c15-a0e4c73ae914.png)
+![my_contribution](https://user-images.githubusercontent.com/103074273/205244992-f2e0858a-4b7a-4e89-bef6-fad07ecb24ad.png)
+
 
 # <h1 id="guide">Δημιουργία Guide για το Παραδοτέο 6:<h1>
 Έφτιαξα ως Admin της ομάδας μου ([OMADA12](https://github.com/OMADA12)) ένα guide, με την καθοδήγηση της ομάδας: [`second-Time-Is-The-Charm`](https://github.com/second-Time-Is-The-Charm) και συγκεκριμένα του συμφοιτητή μου:
