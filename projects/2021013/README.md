@@ -312,7 +312,7 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 ## παραθέτω τα παρακάτω links:
  - [όλα τα screenshots σε αποθετήριο στο github](https://github.com/nkanagno/kallipos/tree/master/My_pics/screenshots%20%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%2011)
  - [το βιβλίο σε epub (compressed)](https://github.com/nkanagno/kallipos/issues/2)
- - [το βιβλίο σε epub (full size)](https://github.com/nkanagno/books/blob/main/book.epub)
+ - [τα βιβλία(μου σε full size)](https://github.com/nkanagno/books/)
  - [make-latex.sh](https://github.com/nkanagno/kallipos/blob/master/make-latex.sh)
  - [cs-unreal-engine.md](https://github.com/nkanagno/extras/blob/master/cs-unreal-engine.md)
  - [bio-sweeney.md](https://github.com/nkanagno/extras/blob/master/bio-sweeney.md)
