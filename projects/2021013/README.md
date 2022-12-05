@@ -306,14 +306,13 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
  pandoc --quiet -f latex book.tex -o book.epub
  ```
 ## Προσθήκη υλικού στο βιβλίο:
-Πρόσθεσα τις εικόνες μου από το 3o παραδοτέο, την μελέτη περίπτωσής μου από το 7ο παραδοτέο και την βιογραφία από το 9ο παραδοτέο στο κεφάλαιο `μοντέλα`(ch05.txt). Πιο συγκεκριμένα πρόσθεσα στο υποκεφάλαιο `Εργαλείο` την εικόνα της `unreal engine 3` δίοτι αναφερότανε για παιχνιδομηχανές,  
+Πρόσθεσα τις εικόνες μου από το 3o παραδοτέο, την μελέτη περίπτωσής μου από το 7ο παραδοτέο και την βιογραφία από το 9ο παραδοτέο στο κεφάλαιο `Τεχνικές`(ch04.txt). Πιο συγκεκριμένα πρόσθεσα στο υποκεφάλαιο `Εργαλείο` την εικόνα της `unreal engine 3` δίοτι αναφερότανε για παιχνιδομηχανές,  
 και η unreal engine είναι μία από τις πιο διάσημες μηχανές βιντεοπαιχνιδιών στο κόσμο αυτή τη στιγμή και την εικόνα `blender` στο υποκεφάλαιο `Μέσο επικοινωνίας` εκεί που αναφέρεται για τεχνητήτη πραγματικότικα. Στη συνέχεια, πρόσθεσα την `μελέτη περίπτωσης της unreal engine` σε αυτό το κεφάλαιο διότι αναφέρεται σε εργαλεία ή αλλιώς μοντέλα διάδρασης τα οποία μπορεί να χρησιμοποιηθούν προκειμένου να βελτιωθεί η καθημερινή ζωή ενός ανθρώπου, έτσι και η unreal engine αρχικά φτιάχτηκε για να μπορεί ο κάθε developer βιντεοπαιχνιδιών να φτιάχνει πιο εύκολα και πιο εντυπωσιακά βιντεοπαιχνίδια από το να τα γράψει με απλό κώδικα. Τέλος, πρόσθεσα τη `βιογραφία του Tim Sweeney` στο ίδιο κεφάλαιο διοτί είναι εκείνος ο οποίος δημιούργησε την ίδια την unreal engine το 1998. 
 
 ## παραθέτω τα παρακάτω links:
  - [όλα τα screenshots σε αποθετήριο στο github](https://github.com/nkanagno/kallipos/tree/master/My_pics/screenshots%20%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF%2011)
  - [το βιβλίο σε epub (compressed)](https://github.com/nkanagno/kallipos/issues/2)
  - [το βιβλίο σε epub (full size)](https://github.com/nkanagno/book.epub/blob/main/book.epub)
- - [το νεό pdf βιβλίο](https://github.com/nkanagno/kallipos/issues/3)
  - [make-latex.sh](https://github.com/nkanagno/kallipos/blob/master/make-latex.sh)
  - [cs-unreal-engine.md](https://github.com/nkanagno/extras/blob/master/cs-unreal-engine.md)
  - [bio-sweeney.md](https://github.com/nkanagno/extras/blob/master/bio-sweeney.md)
