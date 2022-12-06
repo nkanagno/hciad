@@ -86,8 +86,8 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
   #### Blender:
    * link του άρθρου μου στο site μου για το `Blender`: <a href="https://nkanagno.netlify.app/gallery/blender/">Blender</a>
    * To [`blender.md`](https://github.com/nkanagno/_gallery/blob/master/blender.md) σε .md αρχείο
-   * Η αρχική φωτογραφία του [`blender.jpg`](https://github.com/nkanagno/images/blob/master/blender.jpg)
-   * Η φωτογραφία του [`blender - thump.jpg`](https://github.com/nkanagno/images/blob/master/blender-thumb.jpg) resized σε 160x160 pixels 
+   * Η αρχική φωτογραφία του [`blender.jpg`](https://github.com/nkanagno/images/blob/master/blender-PBR.jpg)
+   * Η φωτογραφία του [`blender - thump.jpg`](https://github.com/nkanagno/images/blob/master/blender-PBR-thumb.jpg) resized σε 160x160 pixels 
 
  ## Tα Links και οι φωτογραφίες του κάθε θέματος μου στο αποθετήριο της <a href="https://github.com/OMADA12">ομάδας</a> μου:
 
@@ -101,8 +101,8 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
   #### Blender:
    * link του άρθρου μου στο site του organization μου για το `Blender`: <a href="https://omada12.netlify.app//gallery/blender/">Blender</a>
    * To [`blender.md`](https://github.com/OMADA12/_gallery/blob/master/blender.md) σε .md αρχείο
-   * Η αρχική φωτογραφία του [`blender.jpg`](https://github.com/OMADA12/images/blob/master/blender.jpg)
-   * Η φωτογραφία του [`blender - thump.jpg`](https://github.com/OMADA12/images/blob/master/blender-thumb.jpg) resized σε 160x160 pixels
+   * Η αρχική φωτογραφία του [`blender.jpg`](https://github.com/OMADA12/images/blob/master/blender-PBR.jpg)
+   * Η φωτογραφία του [`blender - thump.jpg`](https://github.com/OMADA12/images/blob/master/blender-PBR-thumb.jpg) resized σε 160x160 pixels
 ## Παλιά Θέματα:
 ### 1. Σύντομη Περιγραφή: ~~Nintendo - Gamecube~~
 ~~Το Nintendo GameCube είναι η κονσόλα έκτης γενιάς της Nintendo και κυκλοφόρησε στην Ιαπωνία τον Σεπτέμβρη του 2001 και ύστερα στην Ευρώπη το Μάιο του 2002. Είναι η πρώτη παιχνιδομηχανή της Nintendo που χρησιμοποιεί για αποθηκευτικό μέσο για τα παιχνίδια της mini-DVD αντί για κασέτες, με αποτέλεσμα να καταλήξει να βρίσκεται σε ανταγωνισμό με τις δύο μεγαλύτερες επιχειρήσεις της αγοράς βιντεοπαιχνιδιών στον κόσμο, την Sony και την microsoft που χρησιμοποιούσαν κυρίως DVD. Επίσης, είναι σημαντικό να αναφερθεί ότι το GameCube εισήγαγε μια ποικιλία από επιλογές συνδεσιμότητας για κονσόλες Nintendo και είναι η πρώτη κονσόλα της Nintendo έξω από την Ιαπωνία που υποστήριξε το online play επισήμως, μέσω του Nintendo GameCube Broadband Adapter και Modem Adapter.~~
@@ -158,7 +158,7 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 # ΑΝΑΝΕΩΜΕΝΕΣ ΚΑΤΗΓΟΡΙΕΣ: `SLIDES-TIMELINES`
 
 ## 1o MD File: `Unreal Engine`
-
+### [Προσωπικό απεθετήριο:](https://github.com/nkanagno)
 [ `Unreal Engine 3` Στο github](https://github.com/nkanagno/_gallery/blob/master/unreal-engine-3.md) <br>
 [ `Unreal Engine 3` Στο netlify](https://nkanagno.netlify.app/gallery/unreal-engine-3/)
 | Πλατφόρμα | slides | timeline | 
@@ -166,14 +166,31 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 | [Github account](https://github.com/nkanagno) | [Ανάπτυξη βιντεπαιχνιδιών (Game Development)](https://github.com/nkanagno/site/blob/master/_slides/game-development.md) | [Προγραμματισμός χωρίς κώδικα](https://github.com/nkanagno/site/blob/master/_timeline/programming-without-coding.md) |
 | [netlify](https://nkanagno.netlify.app/) | [Ανάπτυξη βιντεπαιχνιδιών (Game Development)](https://nkanagno.netlify.app/slides/game-development/)| [Προγρμματισμός χωρίς κώδικα](https://nkanagno.netlify.app/timeline/programming-without-coding/) |
 
-## 2o MD File: `Blender`
+### [organization:](https://github.com/OMADA12)
 
+[ `Unreal Engine 3` Στο github](https://github.com/OMADA12/_gallery/blob/master/unreal-engine-3.md) <br>
+[ `Unreal Engine 3` Στο netlify](https://nkanagno.netlify.app/gallery/unreal-engine-3/)
+| Πλατφόρμα | slides | timeline | 
+| --- | --- | --- | 
+| [Github organization](https://github.com/OMADA12) | [Ανάπτυξη βιντεπαιχνιδιών (Game Development)](https://github.com/OMADA12/site/blob/master/_slides/game-development.md) | [Προγραμματισμός χωρίς κώδικα](https://github.com/OMADA12/site/blob/master/_timeline/programming-without-coding.md) |
+| [netlify](https://omada12.netlify.app/) | [Ανάπτυξη βιντεπαιχνιδιών (Game Development)](https://omada12.netlify.app/slides/game-development/)| [Προγρμματισμός χωρίς κώδικα](https://omada12.netlify.app/timeline/programming-without-coding/) |
+
+## 2o MD File: `Blender`
+### [Προσωπικό απεθετήριο:](https://github.com/nkanagno)
 [`Blender` Στο github](https://github.com/nkanagno/_gallery/blob/master/blender.md) <br>
 [`Blender` Στο netlify](https://nkanagno.netlify.app/gallery/blender/)
 | Πλατφόρμα | slides | timeline | 
 | --- | --- | --- | 
 | [Github account](https://github.com/nkanagno) | [animation](https://github.com/nkanagno/site/blob/master/_slides/animation.md) | [τρισδιάστατα περιβάλλοντα](https://github.com/nkanagno/site/blob/master/_timeline/3d-enviroments.md) |
 | [netlify](https://nkanagno.netlify.app/) | [animation](https://nkanagno.netlify.app/slides/animation/)|  [τρισδιάστατα περιβάλλοντα](https://nkanagno.netlify.app/timeline/3d-enviroments/) |
+
+### [organization:](https://github.com/OMADA12)
+[`Blender` Στο github](https://github.com/OMADA12/_gallery/blob/master/blender.md) <br>
+[`Blender` Στο netlify](https://omada12.netlify.app/gallery/blender/)
+| Πλατφόρμα | slides | timeline | 
+| --- | --- | --- | 
+| [Github organization](https://github.com/OMADA12) | [animation](https://github.com/OMADA12/site/blob/master/_slides/animation.md) | [τρισδιάστατα περιβάλλοντα](https://github.com/OMADA12/site/blob/master/_timeline/3d-enviroments.md) |
+| [netlify](https://omada12.netlify.app/) | [animation](https://omada12.netlify.app/slides/animation/)|  [τρισδιάστατα περιβάλλοντα](https://omada12.netlify.app/timeline/3d-enviroments/) |
 
 # ΠΑΛΙΕΣ ΚΑΤΗΓΟΡΙΕΣ: `SLIDES-TIMELINES`
 ## ~~1o MD File: `Nintendo Gamecube`~~
@@ -193,6 +210,8 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 | --- | --- | --- | 
 | [Github account](https://github.com/nkanagno) | [Eφαρμογές επίλυσης προβλημάτων ](https://github.com/nkanagno/site/blob/master/_slides/Problem-Solving-Apps.md) | [περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.)](https://github.com/nkanagno/site/blob/master/_timeline/narrow-artificial-intelligence.md) |
 | [netlify](https://nkanagno.netlify.app/) | [Eφαρμογές επίλυσης προβλημάτων](https://nkanagno.netlify.app/slides/problem-solving-apps/)| [περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.)](https://nkanagno.netlify.app/timeline/narrow-artificial-intelligence/) |
+
+
 ### PULL REQUEST:
 Κάνοντας πρώτα sync fork απο την ομάδα μου έκανα μετά Pull-request από το προσωπικό [`nkanagno/site`](https://github.com/nkanagno/site) προς στο [`OMADA12/site`](https://github.com/OMADA12/site) του organization της ομάδας μας:<a href="https://github.com/OMADA12/site/pull/2"> "add my slides and timeline categories"</a>
 
