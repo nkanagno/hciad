@@ -368,6 +368,7 @@ tmux new -s ονόμα_session
   - [#1239](https://github.com/courses-ionio/help/discussions/1239)
   - [#1879](https://github.com/courses-ionio/help/discussions/1879)
   - [#1865](https://github.com/courses-ionio/help/discussions/1865#here)
+  - [#1922](https://github.com/courses-ionio/help/discussions/1922)
  #### Guide παραδοτέου 6:
   - [#1597](https://github.com/courses-ionio/help/discussions/1597)
  #### Αναφορά για την λύση του προβλήματος των `μικρών γραμμάτων` που αφορά το asciinema:
