@@ -53,11 +53,11 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 Μόλις ολοκληρώθηκε η εγκατάσταση, έκανα login, έκανα “pacman -Sy asciinema neofetch” και έφτιαξα το παρακάτω βίντεο κάνοντας “asciinema  rec”
 και δείχνει τα αποτελέσματα των εντολών: 
 
- -  `PS1=["2021013\w]# "`
+ - `PS1=["2021013\w]# "`
  - `neofetch` 
  - `sudo journalctl -b`<br>
 
-### <a href="https://asciinema.org/a/mpbE2As74UV6mMgLIyK7dem1t">`link για το asciinema`</a> <br>
+### <a href="https://asciinema.org/a/529148">`link για το asciinema`</a> <br>
 
 
 # <h1 id="A1">3ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο A1:</h1>
@@ -73,6 +73,12 @@ git commit -m "update submodules"
 git push origin
 ```
 και έφτιαξα και το netlify site της ομάδας [`οmada12`](https://omada12.netlify.app/) αλλάζοντας τον φάκελο [`_config.yml`](https://github.com/OMADA12/site/blob/master/_config.yml) και τέλος μετά από συννενόηση με την ομάδα μου φτιάχτηκαν οι κανόνες και οι οδηγίες συνεισφοράς για την ομάδα μου [`contributing.md`](https://github.com/OMADA12/site/blob/master/.github/CONTRIBUTING.md).
+## Ατομικές υποχρεώσεις:
+### Submodules+netlify:
+ - Fork από OMADA12: [`nkanagno site (github)`](https://github.com/nkanagno/site)
+ - Δημιουργία submodules: [`.gitmodules`](https://github.com/nkanagno/site/blob/master/.gitmodules)
+ - Δημιουργία netlify site: [nkanagno site (netlify)](http://nkanagno.netlify.app/)
+ - Αλλαγή _config.yml: [`_config.yml nkanagno`](https://github.com/nkanagno/site/blob/master/_config.yml)
 ## Επιλογές Εικόνων:
 Αρχικά, ασχολήθηκα με δύο διαφορετικά θέματα τα οποία το ένα ήταν το <a href="https://en.wikipedia.org/wiki/GameCube">nintendo-gamecube</a> και το δεύτερο ήταν το <a href="https://en.wikipedia.org/wiki/Tetris">Tetris</a>. Ωστόσο όμως σύμφωνα με ορισμένα σχόλια που πραγματοποιήθηκαν κατα την διάρκεια του μαθήματος αποφάσισα και έβαλα δύο ακόμη καινούργια θέματα, όπως την μηχανή επεξεργασίας γραφικών και animation, το [`Blender`](https://el.wikipedia.org/wiki/Blender) και την μηχανή ανάπτυξης παιχνιδιών, την [`Unreal Engine 3`](https://en.wikipedia.org/wiki/Unreal_Engine#Unreal_Engine_3). Ο λόγος που επέλεξα αυτά τα δύο θέματα μαζί είναι γιατί όπως αναφέρω και στην <a href="#introduction">Εισαγωγή </a> μου λίγα χρόνια αφού τελειώσω το πανεπιστήμιο και πάρω το πτυχίο μου, σκέφτομαι πολύ σοβαρά να ασχοληθώ με το game-development καθώς επίσης ταυτόχρονα η μία μηχανή αλληλοσυμπληρώνει την άλλη. Πιο συγκεκριμένα, ως γνωστόν στη σύγχρονη εποχή για να προγραμματίσει ένας game developer ένα βιντεοπαιχνίδι τρισδιάστατου περιβάλλοντος τότε θα του είναι αναγκαία μία μηχανή ανάπτυξης παιχνιδιών όπως η `Unreal Engine`. Από την άλλη μεριά αν θέλει ο developer να προσθέσει και animations με πολύ καλά γραφικά θα χρειαστεί οπωςδήποτε μία εφαρμογή όπως το `blender` καθώς η Unreal Engine από μόνη της δεν υποστηρίζει την ανάπτυξη `animations`. 
 Επίσης στο κεφάλαιο `τεχνικές` του Βιβλίου, αναφέρεται στο υποκεφάλαιο `Περιβάλλον ανάπτυξης λογισμικού` σε διαγράμματα ροής που σχετίζονται με τον οπτικό προγραμματισμό και για αυτό τον λόγο αποφάσισα να επικεντρωθώ περισσότερο σε συγκεκριμένα εργαλεία αυτού του είδους, των δύο αυτών μηχανών. Δηλαδή για την unreal engine αναφέρομαι στην `unreal engine 3` που είχε το εργαλείο `kismet` όπου επέτρεπε στον χρήστη να συνδέει μοτίβα σε μορφή διαγράμματος, προκειμένου να `προγραμματίσει το βιντεοπαιχνίδι` του χωρίς να γράψει ούτε μία γραμμή κώδικα. Ενώ για το `blender` εστιάζω περισσότερο στο εργαλείο του που ονομάζεται `Rapid PBR Material Creator`, που επίσης δίνει την δυνατότητα στον χρήστη να συνδέει μοτίβα (εικόνων, χρωμάτων, ήχου κλπ) σε μορφή διαγράμματος αλλά αύτη τη φορά για την `δημιουργία 3D ή 2D γραφικών, animation κλπ`.   
