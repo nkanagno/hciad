@@ -375,14 +375,17 @@ tmux new -s ονόμα_session
  - [unreal-engine-3.jpg](https://github.com/nkanagno/images/blob/master/unreal-engine-3.jpg)
  - [unreal-engine-3-thumb.jpg](https://github.com/nkanagno/images/blob/master/unreal-engine-3-thumb.jpg)
  
-# Τελικό Pull request: [link](https://github.com/OMADA12/site/pull/9)
+# Τελικό Pull request προς την ομάδα μου: [link](https://github.com/OMADA12/site/pull/9)
 ## Το οποίο επιβεβαιώνει ότι έχω διαβάσει και έχω ακολουθήσει πλήρως τις [οδηγίες συνεισφοράς και τους κανόνες της ομάδας μουͺͺ](https://github.com/OMADA12/site/blob/master/.github/CONTRIBUTING.md)  
 # <h1 id="BOOK_B">12ο ΠΑΡΑΔΟΤΕΟ - Τελική αναφορά: </h1>
-## Aυτοαξιολόγηση:
-
-
 ## Επικοινωνία Ανθρώπου Υπολογιστή
 Η διάδραση ανθρώπου-υπολογιστή είναι η επιστήμη που μελετά τον τρόπο με τον οποίο οι άνθρωποι επικοινωνούν με τους υπολογιστές και διαχειρίζονται τις λειτουργίες που οι υπολογιστές μπορούν να εκτελέσουν. Συχνά η διάδραση ανθρώπου-υπολογιστή χρησιμοποιείται για να βελτιώσει τον τρόπο με τον οποίο οι άνθρωποι επικοινωνούν με τα συστήματα και να καθιστήσει την επικοινωνία ευκολότερη και πιο εύχρηστη.
+ 
+## Aυτοαξιολόγηση:
+ 
+## Τι έμαθα άπο το μάθημα:
+## `Pull request` τελικής αναφοράς:
+
 ## Links για την συμμετοχή μου στα [discussions](https://github.com/courses-ionio/help/discussions):
  ### [Show and tell](https://github.com/courses-ionio/help/discussions/categories/show-and-tell):
  #### Συμβουλές στους συμφοιτητές μου για την διώρθωση παραδοτέων: 
