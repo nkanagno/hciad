@@ -267,11 +267,15 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 Ο κύριος λόγος που επέλεξα αυτό το θέμα είναι γιατί πρώτα απ'όλα να με βοηθήσει να εμβαθύνω περισσότερο στο χώρο της ανάπτυξης βιντεοπαιχνιδιών καθώς και να μάθω ιστορικά μερικές πληροφορίες για την μηχανή που έχω σκοπό να χρησιμοποιήσω στο μέλλον. Η οποία είναι μία εφαρμογή που έχει δημιουργήσει τα περισσότερα τρισδιάστατα βινεοπαιχνίδια της σύγχρονης εποχή και δίνει την δυνατότητα στον χρήστη της, να φτιάξει φωτορεαλιστικά τρισδιάστατα περιβάλλοντα να οποία δεν διαφέρουν τόσο πολυ από τα φυσικά. 
 
 ## Παραθέτω παρακάτω τα `links` για την `μελέτη περίπτωσης` μου (`github`, `netlify`):
+ ### [Προσωπικό απεθετήριο:](https://github.com/nkanagno)
 - case-study unreal engine στο netlify: [`Unreal Engine`](https://nkanagno.netlify.app/case-study/unreal-engine/)
 - Στον φάκελο `_includes` στο github: [`cs-unreal-engine.md`](https://github.com/nkanagno/site/blob/master/_includes/cs-unreal-engine.md)
 - Στον φάκελο `_case-study` στο github: [`unreal-engine.md`](https://github.com/nkanagno/site/blob/master/_case-study/unreal-engine.md)
-
-## Λίγα λόγια για το Θέμα που επέλεξα: [`unreal-engine.md`](https://github.com/nkanagno/site/blob/master/_case-study/unreal-engine.md)
+### [organization:](https://github.com/OMADA12)
+ - case-study unreal engine στο netlify: [`Unreal Engine`](https://omada12.netlify.app/case-study/unreal-engine/)
+- Στον φάκελο `_includes` στο github: [`cs-unreal-engine.md`](https://github.com/OMADA12/site/blob/master/_includes/cs-unreal-engine.md)
+- Στον φάκελο `_case-study` στο github: [`unreal-engine.md`](https://github.com/OMADA12/site/blob/master/_case-study/unreal-engine.md)
+## Λίγα λόγια για το Θέμα που επέλεξα: [`unreal-engine.md`](https://github.com/OMADA12/site/blob/master/_case-study/unreal-engine.md)
 ![unreal-engine-thumb](https://user-images.githubusercontent.com/103074273/202076737-8e54a818-ae89-4359-94ff-9564a6b23303.jpg)<br>
 Η Unreal Engine είναι μια μηχανή δημιουργίας βίντεοπαιχνιδιών που περιέχουν τρισδιάστατα γραφικά και περιβάλλοντα και αναπτύχθηκε από την Epic Games για πρώτη φορά το 1995. Δημιουργήθηκε κυριώς προκειμένα να υιοθετήθει από άλλες εταιρίες αυτής της βιομηχανίας. Γραμμένη ολόκληρη σε C++, διαθέτει υψηλό βαθμό φορητότητας , υποστηρίζοντας ένα ευρύ φάσμα πλατφορμών επιτραπέζιων υπολογιστών, κινητών, κονσόλων και εικονικής πραγματικότητας.
 
@@ -311,11 +315,15 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 Ο κύριος Eπέλεξα αυτό το θέμα δίοτι ήθελα να μάθω περισσότερες πληροφορίες για τον άνθρωπο που έκανε επανάσταση στη βιομηχανία των βιντεοπαιχνιδιών φτιάχνοντας την πιο εντυπωσιακή μηχανή ανάπτυξης τρισδιάστατων βιντεοπαιχνιδιών και γραφικών που χρησιμοποιείτε ακόμη και σήμερα από τις πιο υψηλές εταιρίες βιντεοπαιχνιδιών στον κοσμό. Επίσης θα ήταν σημαντικό να μην παραλλείψω πως ένας άλλος λόγος που αποφάσισα να ψάξω για την ιστορία του Tim Sweeney ήταν επειδή είναι ο ιδρυτής της μιας από τις πιο δημοφιλές και επιτυχημένες εταιρίες βιντεοπαιχνιδιών της σύγχρονης εποχής.
 
 ## Παραθέτω παρακάτω τα `links` για την `Βιογραφία` μου (`github`, `netlify`):
+  ### [Προσωπικό απεθετήριο:](https://github.com/nkanagno)
 - biography στο netlify: [`Tim Sweeney`](https://nkanagno.netlify.app//biography/tim-sweeney/)
 - Στον φάκελο `_includes` στο github: [`bio-sweeney.md`](https://github.com/nkanagno/site/blob/master/_includes/bio-sweeney.md)
 - Στον φάκελο `_biography` στο github: [`tim-sweeney.md`](https://github.com/nkanagno/site/blob/master/_biography/tim-sweeney.md)
-
-## Λίγα λόγια για τη βιογραφία που επέλεξα: [`tim-sweeney.md`](https://github.com/nkanagno/site/blob/master/_biography/tim-sweeney.md)
+### [organization:](https://github.com/OMADA12)
+ - biography στο netlify: [`Tim Sweeney`](https://omada12.netlify.app//biography/tim-sweeney/)
+- Στον φάκελο `_includes` στο github: [`bio-sweeney.md`](https://github.com/OMADA12/site/blob/master/_includes/bio-sweeney.md)
+- Στον φάκελο `_biography` στο github: [`tim-sweeney.md`](https://github.com/OMADA12/site/blob/master/_biography/tim-sweeney.md)
+## Λίγα λόγια για τη βιογραφία που επέλεξα: [`tim-sweeney.md`](https://github.com/OMADA12/site/blob/master/_biography/tim-sweeney.md)
 ![sweeney-profile-thumb](https://user-images.githubusercontent.com/103074273/204682062-e207317c-c292-4628-958d-85297222ff64.jpg) <br>
 Ο Tim Sweeney κατασκεύασε ένα από τα πρώτα και, αυτή τη στιγμή, πιο διάσημα διαδραστικά συστήματα ανάπτυξης βιντεοπαιχνιδιών, δίνοντας έτσι την ευκαιρία στον χρήστη να δημιουργήσει τα δικά του βιντεοπαιχνίδια, τα οποία παίρνουν μέρος σε τρισδιάστατα περιβάλλοντα και έχουν πολύ ρεαλιστικά γραφικά.
 
