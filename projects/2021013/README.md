@@ -10,7 +10,7 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | <ul><li> [x] Η αναφορά μου + προσθήκη πίνακα περιεχομένων  </li></ul><ul><li> [x] <a href="#introduction"> συγγραφή της εισαγωγής </a> </li></ul> <ul><li> [x] [Αποστολή της εισαγωγής για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/902)</li></ul> <ul><li> [x] Απάντηση στων ερωτήσεων του 1ου βίντεο που υπάρχει στο Edpuzzle</li></ul>| Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
+| 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | <ul><li> [x] Η αναφορά μου + προσθήκη πίνακα περιεχομένων  </li></ul><ul><li> [x] <a href="#introduction"> συγγραφή της εισαγωγής </a> </li></ul> <ul><li> [x] [Αποστολή της εισαγωγής για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/902)</li></ul> <ul><li> [x] [ανοιχτή ομάδα στις συζητήσεις](https://github.com/courses-ionio/hci/discussions/1794#omada12) </li></ul> <ul><li> [x] Απάντηση στων ερωτήσεων του 1ου βίντεο που υπάρχει στο Edpuzzle</li></ul> | Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
 | 2 | <ul><li> [x] <a href="#arch_linux_installation">Επιτυχής εγκατάσταση Arch linux σε USB stick + Αναλυτική περιγραφή της εγκατάστασης</a> </ul></li>  <ul><li> [x] Απάντηση στων ερωτήσεων του 2ου βίντεο που υπάρχει στο Edpuzzle </ul></li> |[Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 2 ](https://github.com/courses-ionio/help/discussions/1055)| Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας|
 | 3 | <ul><li> [x] <a href="#A1">Συμμετοχικό περιεχόμενο A1 </a> </ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 3ου βίντεο που υπάρχει στο Edpuzzle </ul></li> | [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 3 ](https://github.com/courses-ionio/help/discussions/1229)| Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
 | 4 | <ul><li> [x] <a href="#warm_ups">Άσκηση γραμμής εντολών (warm up cli)</a> </ul></li> <ul><li> [x] Απάντηση στων ερωτήσεων του 4ου βίντεο που υπάρχει στο Edpuzzle </ul></li>| [Ανέβασμα στο σχολιασμό της συζήτησης το Παραδοτέο 4](https://github.com/courses-ionio/help/discussions/1378) |Έχει γίνει το 100% των απαιτούμενων εργασιών της τρέχουσας εβδομάδας |
@@ -33,6 +33,9 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
  - Στο να ψάχνω περισσότερες πληροφορίες για το αντικείμενο που με ενδιαφέρει να ακολουθήσω στο μέλλον. Πιο συγκεκριμένα, έχω ως στόχο λίγα χρόνια αφού τελειώσω με το πανεπιστήμιο να ασχοληθώ με την ανάπτυξη και σχεδίαση βιντεοπαιχνιδιών, και μέσω του μαθήματος και των εργασιών θα έχω την ευκαιρία να ψάξω και να μάθω περισσότερα πράγματα για το αντικείμενο που επρόκειτο να ακολουθήσω.
 
  - Στο να μπορώ να δουλεύω σε ομάδες. Είναι γνωστόν, ότι για να πετύχω τον κύριο μελλοντικό μου στόχο μου, δηλαδή να ασχοληθώ με την ανάπτυξη και τη σχεδίαση βιντεοπαιχνιδιών, πρέπει να μάθω να συνεργάζομαι με άλλους ανθρώπους. Δηλαδή αν τύχει να δουλέψω σε κάποια εταιρία θα αναγκαστώ να μπω σε μία ομάδα, με είτε πιο έμπειρους είτε λιγότερο έμπειρους από εμένα. Γιαυτό τον λόγο πιστεύω το να μάθω να δουλεύω ομαδικά με άλλους ανθρώπους θα είναι κάτι που θα μου είναι πολύ χρήσιμο στο μέλλον. Αυτό πιστεύω θα το πετύχω μέσω των ομαδικών εργασιών που περιέχει το μάθημα.
+
+## <h2 id=aks1> Αυτοξιολόγηση: `βαθμός 10/10`</h2>
+Στο παραδοτέο αυτό πραγματοποιήθηκαν όλα τα ζητούμενα. Δηλαδή έγινε η `Εισαγωγή` μου, στην οποία περιέγραψα όλους τους στόχους που είχα για το συγκεκριμένο μάθημα και κατάφερα να επιτύχω όλους καθόλη τη διάρκεια του μαθήματος. Επίσης, δημιουργήθηκε [η ομάδα μου](https://github.com/OMADA12) και ως admin την ανέφερα μαζί με τα μέλη της στη συζήτηση [#1794](https://github.com/courses-ionio/hci/discussions/1794#omada12) έχοντας την `ανοιχτή για νέα μέλη`. Έπειτα έφτιαξα σωστά την αναφορά μου κάνοντας `fork -> δημιουργία branch ΑΜ -> μέσα στον φάκελο project έφτιαξα έναν φάκελο με όνομα τον ΑΜ μου -> μέσα σε αυτόν έφτιαξα ένα README.md όπου ειναι η αναφορά μου και έναν copy paste τον πίνακα περιεχομένων`. Ανέβασα εμπρόθεσμα το παραδοτέο 1 στη συζητήση [#902](https://github.com/courses-ionio/help/discussions/902). Τέλος έκανα το βίντεο του edpuzzle εμπρόθεσμα.
 
 # <h1 id="arch_linux_installation"> 2ο ΠΑΡΑΔΟΤΕΟ - ΕΠΙΤΥΧΗΣ ΕΓΚΑΤΑΣΤΑΣΗ ARCH LINUX ΣΕ USB STICK:</h1>
 Ως πρώτη μου εμπειρία με το λογισμικό [Arch-Linux](https://archlinux.org), αποφάσισα πως ο πιο ασφαλής τρόπος εγκατάστασης του, θα ήταν να αποφύγω το Dual-Boot και να το τοποθετήσω σε ένα USB stick. Επειδή, δε κατάφερα να ακολουθήσω βήμα-βήμα το installation guide του Arch Linux ([Install Arch Linux on a removable medium](https://wiki.archlinux.org/title/Install_Arch_Linux_on_a_removable_medium)) με βοήθησε περισσότερο το συγκεκριμένο 
@@ -59,9 +62,11 @@ GitHub organisation url: [OMADA12](https://github.com/OMADA12)
 
 ### <a href="https://asciinema.org/a/529148">`link για το asciinema`</a> <br>
 
+## <h2 id="aks2"> Αυτοξιολόγηση: `βαθμός 10/10`</h2>
+Στο παραδοτέο αυτό πραγματοποιήθηκαν όλα τα ζητούμενα. Δηλαδή, έγινε επιτυχώς η εγκατάσταση του `αrch linux σε usb stick` καθώς και το <a href="https://asciinema.org/a/529148">`link για το asciinema`</a>. Ανέβασα εμπρόθεσμα το παραδοτέο 2 στη συζητήση [#1055](https://github.com/courses-ionio/help/discussions/1055). Τέλος, έκανα το βίντεο του edpuzzle εμπρόθεσμα.
 
 # <h1 id="A1">3ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο A1:</h1>
-## Υπεχρεώσεις ως Admin:
+## <h2 id="sub">Υπεχρεώσεις ως Admin:</h2>
 Αρχικά, ως admin έκανα `fork` το site από το pibook στην <a href="https://github.com/OMADA12">ομάδα μου</a>, μετά έφτιαξα τα submodules της αλλάζοντας το φάκελο [`.gitmodules`](https://github.com/OMADA12/site/blob/master/.gitmodules) και εκτελοντας τις παρακάτω εντολές:
 ```
 git clone https://github.com/OMADA12/site
@@ -79,7 +84,7 @@ git push origin
  - Δημιουργία submodules: [`.gitmodules`](https://github.com/nkanagno/site/blob/master/.gitmodules)
  - Δημιουργία netlify site: [nkanagno site (netlify)](http://nkanagno.netlify.app/)
  - Αλλαγή _config.yml: [`_config.yml nkanagno`](https://github.com/nkanagno/site/blob/master/_config.yml)
-## Επιλογές Εικόνων:
+## <h2 id="imageChoices">Επιλογές Εικόνων</h2>:
 Αρχικά, ασχολήθηκα με δύο διαφορετικά θέματα τα οποία το ένα ήταν το <a href="https://en.wikipedia.org/wiki/GameCube">nintendo-gamecube</a> και το δεύτερο ήταν το <a href="https://en.wikipedia.org/wiki/Tetris">Tetris</a>. Ωστόσο όμως σύμφωνα με ορισμένα σχόλια που πραγματοποιήθηκαν κατα την διάρκεια του μαθήματος αποφάσισα και έβαλα δύο ακόμη καινούργια θέματα, όπως την μηχανή επεξεργασίας γραφικών και animation, το [`Blender`](https://el.wikipedia.org/wiki/Blender) και την μηχανή ανάπτυξης παιχνιδιών, την [`Unreal Engine 3`](https://en.wikipedia.org/wiki/Unreal_Engine#Unreal_Engine_3). Ο λόγος που επέλεξα αυτά τα δύο θέματα μαζί είναι γιατί όπως αναφέρω και στην <a href="#introduction">Εισαγωγή </a> μου λίγα χρόνια αφού τελειώσω το πανεπιστήμιο και πάρω το πτυχίο μου, σκέφτομαι πολύ σοβαρά να ασχοληθώ με το game-development καθώς επίσης ταυτόχρονα η μία μηχανή αλληλοσυμπληρώνει την άλλη. Πιο συγκεκριμένα, ως γνωστόν στη σύγχρονη εποχή για να προγραμματίσει ένας game developer ένα βιντεοπαιχνίδι τρισδιάστατου περιβάλλοντος τότε θα του είναι αναγκαία μία μηχανή ανάπτυξης παιχνιδιών όπως η `Unreal Engine`. Από την άλλη μεριά αν θέλει ο developer να προσθέσει και animations με πολύ καλά γραφικά θα χρειαστεί οπωςδήποτε μία εφαρμογή όπως το `blender` καθώς η Unreal Engine από μόνη της δεν υποστηρίζει την ανάπτυξη `animations`. 
 Επίσης στο κεφάλαιο `τεχνικές` του Βιβλίου, αναφέρεται στο υποκεφάλαιο `Περιβάλλον ανάπτυξης λογισμικού` σε διαγράμματα ροής που σχετίζονται με τον οπτικό προγραμματισμό και για αυτό τον λόγο αποφάσισα να επικεντρωθώ περισσότερο σε συγκεκριμένα εργαλεία αυτού του είδους, των δύο αυτών μηχανών. Δηλαδή για την unreal engine αναφέρομαι στην `unreal engine 3` που είχε το εργαλείο `kismet` όπου επέτρεπε στον χρήστη να συνδέει μοτίβα σε μορφή διαγράμματος, προκειμένου να `προγραμματίσει το βιντεοπαιχνίδι` του χωρίς να γράψει ούτε μία γραμμή κώδικα. Ενώ για το `blender` εστιάζω περισσότερο στο εργαλείο του που ονομάζεται `Rapid PBR Material Creator`, που επίσης δίνει την δυνατότητα στον χρήστη να συνδέει μοτίβα (εικόνων, χρωμάτων, ήχου κλπ) σε μορφή διαγράμματος αλλά αύτη τη φορά για την `δημιουργία 3D ή 2D γραφικών, animation κλπ`.   
 Με λίγα λόγια, αναζητώντας πληροφορίες για τα παραπάνω θέματα, μου δώθηκε η ευκαιρία να μάθω λίγα παραπάνω πράγματα πάνω στο αντικείμενο που έχω σκοπό να ασχοληθώ στο μέλλον.
@@ -151,10 +156,12 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
    * Η αρχική φωτογραφία του [`Tetris.jpg`](https://github.com/OMADA12/images/blob/master/Tetris.jpg)
    * Η φωτογραφία του [`Tetris - thump.jpg`](https://github.com/OMADA12/images/blob/master/Tetris-thumb.jpg) resized σε 160x160 pixels 
 
-### PULL-REQUESTS:
+### <h3 id="pull3">PULL-REQUESTS </h3>:
 1. Pull-request από το προσωπικό [`nkanagno/_gallery`](https://github.com/nkanagno/_gallery) προς στο [`OMADA12/_gallery`](https://github.com/OMADA12/_gallery) του organization της ομάδας μας:<a href="https://github.com/OMADA12/_gallery/pull/8"> "upload md files"</a>
 2. Pull-request από το προσωπικό [`nkanagno/images`](https://github.com/nkanagno/images) προς στο [`OMADA12/images`](https://github.com/OMADA12/images) του organization της ομάδας μας:<a href="https://github.com/OMADA12/images/pull/8"> "upload jpg files"</a>
 
+## <h2 id="aks3"> Αυτοξιολόγηση: `βαθμός 10/10`</h2>
+Στο παραδοτέο αυτό πραγματοποιήθηκαν όλα τα ζητούμενα. Δηλαδή, έγινε επιτυχώς το συμμετοχικό υλικό Α1, όπου εξηγώ τον λόγο της <a href="#imageChoices">`επιλογής των εικόνων`</a>, η δημιουργία των <a href="#sub"> submodules </a> της ομάδας και του προσωπικού καθώς και τα <a href="#pull3">`links για τα pull requests`. Ανέβασα εμπρόθεσμα το παραδοτέο 3 στη συζητήση [#1229](https://github.com/courses-ionio/help/discussions/1229). Τέλος, έκανα το βίντεο του edpuzzle εμπρόθεσμα.
 
 # <h1 id="warm_ups">4ο ΠΑΡΑΔΟΤΕΟ - Warm ups CLI (Command Line Interface):</h1>
 Έχοντας καταφέρει να εγκαταστήσω από το <a href="#arch_linux_installation">2ο Παραδοτέο</a> το λειτουργικό σύστημα arch linux σε usb δηλαδή σε hardware μορφή, 
@@ -167,11 +174,16 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 ## Εxtra Εντολές:
  1.  Παρουσιάζω το cheat.sh στο οποίο μπορείς να αποφασίσεις ποια εντολή του arch llinux να σου εξηγήσει ή να σου δώσει παραδείγματα από αυτήν. Για παράδειγμα, εγώ του ζητάω να μου εξηγήσει εδώ την εντολή `ls` : [cheat.sh](https://asciinema.org/a/541064)
 
+## <h2 id="aks4"> Αυτοξιολόγηση: `βαθμός 10/10`</h2>
+Στο παραδοτέο αυτό πραγματοποιήθηκαν όλα τα ζητούμενα. Δηλαδή έγινε η εκτέλεση <a href="#warm_ups">5 γραμμών εντολών</a> και μία έξτρα εντολής το `cheat.sh`, καθώς και όλα τα asciinema. Ανέβασα εμπρόθεσμα το παραδοτέο 4 στη συζήτηση [#1378](https://github.com/courses-ionio/help/discussions/1378). Τέλος, έκανα το βίντεο του edpuzzle εμπρόθεσμα.
+
+
 # <h1 id="A2">5ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο A2: </h1>
+<h2 id="SlidesandtimelinesChoices"> slides-timelines επιλογές:</h2>
 Στο συγκεκριμένο παραδοτέο είχα αρχικά, φτιάξει ως κατηγοριες στα slides για το πρώτο .md μου, δηλαδή για το `Nintendo Gamecube`, το 
 << Προιόντα εταιρειών >> και για το δεύτερο .md, δηλαδή για το `tetris`, πρόσθεσα το << Eφαρμογές επίλυσης προβλημάτων >>. Στη συνεχεια ως κατηγοριες στα timelines για το πρώτο .md μου, δηλαδή για το `Nintendo Gamecube`, το 
 << Συσκευές ψυχαγωγίας >> και για το δεύτερο .md, δηλαδή για το `tetris`, πρόσθεσα το 
-<<  περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.) >>. Αλλά επειδή άλλαξα από το 3ο Παραδοτέο τα κυρια θέματα, έφτιαξα άλλες τέσσερις κατηγορίες (δύο ακόμη slides και δύο ακόμη timelines). Πιο συγκεκριμένα, για το θέμα `Blender` έβαλα ως κατηγορία των slides την << [`animation`](https://nkanagno.netlify.app/slides/animation/) >> και ως κατηγορία στα timelines την << [`τρισδιάστατα περιβάλλοντα`](https://nkanagno.netlify.app/timeline/3d-enviroments/) >>, ενώ για το θέμα `Unreal Engine 3`   έβαλα ως κατηγορία των slides την <<[`Ανάπτυξη βιντεπαιχνιδιών (Game Development)`](https://nkanagno.netlify.app/slides/game-development/) >> και ως κατηγορία στα timelines την  << [`Προγρμματισμός χωρίς κώδικα`](https://nkanagno.netlify.app/timeline/programming-without-coding/) .
+<<  περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.) >>. Αλλά επειδή άλλαξα από το 3ο Παραδοτέο τα κυρια θέματα, έφτιαξα άλλες τέσσερις κατηγορίες (δύο ακόμη slides και δύο ακόμη timelines). Πιο συγκεκριμένα, για το θέμα `Blender` έβαλα ως κατηγορία των slides την << [`animation`](https://nkanagno.netlify.app/slides/animation/) >> και ως κατηγορία στα timelines την << [`τρισδιάστατα περιβάλλοντα`](https://nkanagno.netlify.app/timeline/3d-enviroments/) >>, ενώ για το θέμα `Unreal Engine 3` έβαλα ως κατηγορία των slides την <<[`Ανάπτυξη βιντεπαιχνιδιών (Game Development)`](https://nkanagno.netlify.app/slides/game-development/) >> και ως κατηγορία στα timelines την  << [`Προγρμματισμός χωρίς κώδικα`](https://nkanagno.netlify.app/timeline/programming-without-coding/) .
 
 # ΑΝΑΝΕΩΜΕΝΕΣ ΚΑΤΗΓΟΡΙΕΣ: `SLIDES-TIMELINES`
 
@@ -230,8 +242,11 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 | [netlify](https://nkanagno.netlify.app/) | [Eφαρμογές επίλυσης προβλημάτων](https://nkanagno.netlify.app/slides/problem-solving-apps/)| [περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.)](https://nkanagno.netlify.app/timeline/narrow-artificial-intelligence/) |
 
 
-### PULL REQUEST:
+### <h3 id="pull5">PULL REQUEST:</h3>
 Κάνοντας πρώτα sync fork απο την ομάδα μου έκανα μετά Pull-request από το προσωπικό [`nkanagno/site`](https://github.com/nkanagno/site) προς στο [`OMADA12/site`](https://github.com/OMADA12/site) του organization της ομάδας μας:<a href="https://github.com/OMADA12/site/pull/2"> "add my slides and timeline categories"</a>
+
+## <h2 id="aks5"> Αυτοξιολόγηση: `βαθμός 10/10`</h2>
+Στο παραδοτέο αυτό πραγματοποιήθηκαν όλα τα ζητούμενα. Δηλαδή, έγινε επιτυχώς το συμμετοχικό υλικό Α2, τις επιλογές των <a href="#SlidesandtimelinesChoices"> Slides και timelines </a> για την ομάδα και του προσωπικού καθώς και τα <a href="#pull5">`links για τα pull requests`</a>. Ανέβασα εμπρόθεσμα το παραδοτέο 5 στη συζητήση [#1481](https://github.com/courses-ionio/help/discussions/1481). Τέλος, έκανα το βίντεο του edpuzzle εμπρόθεσμα.
 
 # <h1 id="BOOK_A">6ο ΠΑΡΑΔΟΤΕΟ - Κατασκευη Βιβλιου Α: </h1>
 ## Η Συνοχή μου στο βιβλίο:
@@ -261,6 +276,10 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 > Το guide αυτό είναι για το συγκεκριμένο παραδοτέο και αρχικά προοριζόταν να ανεβεί μόνο για τα μέλη της ομάδας μου αλλά με συνέννεση της ομάδας  [`second-Time-Is-The-Charm`](https://github.com/second-Time-Is-The-Charm), το ανέβασα στο discussions:
 
 ### [link του guide στο discussions](https://github.com/courses-ionio/help/discussions/1597)
+
+## <h2 id="aks6"> Αυτοξιολόγηση: `βαθμός 10/10`</h2>
+Στο παραδοτέο αυτό πραγματοποιήθηκαν όλα τα ζητούμενα. Δηλαδή, έγινε επιτυχώς το συμμετοχικό υλικό Α2, τις επιλογές των <a href="#SlidesandtimelinesChoices"> Slides και timelines </a> για την ομάδα και του προσωπικού καθώς και τα <a href="#pull5">`links για τα pull requests`</a>. Ανέβασα εμπρόθεσμα το παραδοτέο 5 στη συζητήση [#1481](https://github.com/courses-ionio/help/discussions/1481). Τέλος, έκανα το βίντεο του edpuzzle εμπρόθεσμα.
+
 
 # <h1 id="B1">7ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο B1: </h1>
 Στο συγκεκριμένο παραδοτέο αποφάσισα να ασχοληθώ με την ολοκληρωμένη ιστορία της μηχανής ανάπτυξης βιντεοπαιχνιδιών `Unreal Engine`.
@@ -390,7 +409,8 @@ tmux new -s ονόμα_session
 Η διάδραση ανθρώπου-υπολογιστή είναι η επιστήμη που μελετά τον τρόπο με τον οποίο οι άνθρωποι επικοινωνούν με τους υπολογιστές και διαχειρίζονται τις λειτουργίες που οι υπολογιστές μπορούν να εκτελέσουν. Συχνά η διάδραση ανθρώπου-υπολογιστή χρησιμοποιείται για να βελτιώσει τον τρόπο με τον οποίο οι άνθρωποι επικοινωνούν με τα συστήματα και να καθιστήσει την επικοινωνία ευκολότερη και πιο εύχρηστη.
  
 ## Aυτοαξιολόγηση:
- 
+ ### Παραδοτέο 1:
+   
 ## Τι έμαθα άπο το μάθημα:
 ## `Pull request` τελικής αναφοράς:
 
