@@ -190,9 +190,13 @@ To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal τ�
 # <h1 id="A2">5ο ΠΑΡΑΔΟΤΕΟ - Συμμετοχικό περιεχόμενο A2: </h1>
 <h2 id="SlidesandtimelinesChoices"> slides-timelines επιλογές:</h2>
 Στο συγκεκριμένο παραδοτέο είχα αρχικά, φτιάξει ως κατηγοριες στα slides για το πρώτο .md μου, δηλαδή για το `Nintendo Gamecube`, το 
-<< Προιόντα εταιρειών >> και για το δεύτερο .md, δηλαδή για το `tetris`, πρόσθεσα το << Eφαρμογές επίλυσης προβλημάτων >>. Στη συνεχεια ως κατηγοριες στα timelines για το πρώτο .md μου, δηλαδή για το `Nintendo Gamecube`, το 
+<< Προιόντα εταιρειών >> και για το δεύτερο .md, δηλαδή για το `tetris`, πρόσθεσα το << Eφαρμογές επίλυσης προβλημάτων >>. 
+
+Στη συνεχεια ως κατηγοριες στα timelines για το πρώτο .md μου, δηλαδή για το `Nintendo Gamecube`, το 
 << Συσκευές ψυχαγωγίας >> και για το δεύτερο .md, δηλαδή για το `tetris`, πρόσθεσα το 
-<<  περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.) >>. Αλλά επειδή άλλαξα από το 3ο Παραδοτέο τα κυρια θέματα, έφτιαξα άλλες τέσσερις κατηγορίες (δύο ακόμη slides και δύο ακόμη timelines). Πιο συγκεκριμένα, για το θέμα `Blender` έβαλα ως κατηγορία των slides την << [`animation`](https://nkanagno.netlify.app/slides/animation/) >> και ως κατηγορία στα timelines την << [`τρισδιάστατα περιβάλλοντα`](https://nkanagno.netlify.app/timeline/3d-enviroments/) >>, ενώ για το θέμα `Unreal Engine 3` έβαλα ως κατηγορία των slides την <<[`Ανάπτυξη βιντεπαιχνιδιών (Game Development)`](https://nkanagno.netlify.app/slides/game-development/) >> και ως κατηγορία στα timelines την  << [`Προγρμματισμός χωρίς κώδικα`](https://nkanagno.netlify.app/timeline/programming-without-coding/) .
+<<  περιορισμένη τεχνητή νοημοσύνη (Narrow A.I.) >>. Αλλά επειδή άλλαξα από το 3ο Παραδοτέο τα κυρια θέματα, έφτιαξα άλλες τέσσερις κατηγορίες (δύο ακόμη slides και δύο ακόμη timelines).
+
+Πιο συγκεκριμένα, για το θέμα `Blender` έβαλα ως κατηγορία των slides την << [`animation`](https://nkanagno.netlify.app/slides/animation/) >> και ως κατηγορία στα timelines την << [`τρισδιάστατα περιβάλλοντα`](https://nkanagno.netlify.app/timeline/3d-enviroments/) >>, ενώ για το θέμα `Unreal Engine 3` έβαλα ως κατηγορία των slides την <<[`Ανάπτυξη βιντεπαιχνιδιών (Game Development)`](https://nkanagno.netlify.app/slides/game-development/) >> και ως κατηγορία στα timelines την  << [`Προγρμματισμός χωρίς κώδικα`](https://nkanagno.netlify.app/timeline/programming-without-coding/) .
 
 # ΑΝΑΝΕΩΜΕΝΕΣ ΚΑΤΗΓΟΡΙΕΣ: `SLIDES-TIMELINES`
 
